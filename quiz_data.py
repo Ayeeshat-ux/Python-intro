@@ -7,3 +7,5 @@ questions = [
 	("What is 10 * 5?", "50")
 ]
 
+def get_questions():
+    return questions
