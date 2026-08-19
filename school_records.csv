@@ -1,0 +1,6 @@
+Type,Name,Age,Student ID,Subject,Salary,Grades,Average
+Student,Aishat,23,ST001,,,"85, 90, 80",85.00
+Student,Amara,21,ST002,,,"78, 82, 88",82.67
+Student,Kofi,22,ST003,,,"92, 95, 90",92.33
+Teacher,Mr. Johnson,45,,Physics,250000,,
+Teacher,Mrs. Williams,40,,Mathematics,230000,,
