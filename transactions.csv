@@ -1,0 +1,501 @@
+﻿transaction_id,customer_name,phone,email,account_type,branch_state,branch_city,transaction_type,channel,transaction_amount,balance_after,transaction_date,status,narration
+TXN-0001,Yakubu Musa,08059518175,yakubumusa@hotmail.com,Fixed Deposit,Ogun,Ota,Credit,USSD,₦76458,358321.33,2024-07-10,Successful,Dividend Payment
+TXN-0002,Yakubu Musa,07031027616,yakubu_musa1@hotmail.com,Savings,Kaduna,Kafanchan,Transfer,Bank Branch,₦1817,506776.75,2024-03-07,Successful,Transfer to Halima Obi - Opay
+TXN-0003,Yusuf Obi,07032929611,yusufobi@yahoo.com,Current,Delta,Asaba,Transfer,Mobile App,₦17514,91532.2,2024-10-06,Successful,Interbank Transfer - Access Bank
+TXN-0004,Oluwaseun Okonkwo,08145666581,oluwaseun.okonkwo93@outlook.com,Savings,KADUNA,Kaduna South,Debit,POS,₦5182,147422.23,2024-02-07,Reversed,ATM Cash Withdrawal
+TXN-0005,Musa Salami,08166418457,musa.salami56@outlook.com,Savings,Rivers,Eleme,Transfer,POS,₦45136,394403.86,2024-12-11,Reversed,NIP Transfer to Tosin Okonkwo
+TXN-0006,Obinna Salami,08062463656,obinnasalami1@yahoo.com,Savings,DELTA,Sapele,Transfer,Bank Branch,₦125269,0,2024-06-21,Failed,Transfer to Chukwuemeka Tanko
+TXN-0007,Bayo Adebayo,08024190064,bayo_adebayo76@yahoo.com,Current,KADUNA,Kaduna South,Transfer,Bank Branch,₦17580,288363.0,2024-09-28,Pending,NIP Transfer to Babatunde Adekunle
+TXN-0008,Segun Adebayo,08134347962,segun.adebayo74@yahoo.com,Current,Delta,Ughelli,Credit,Bank Branch,₦193760,811098.52,2024-03-07,Successful,Freelance Income
+TXN-0009,Chidi Usman,09065642290,chidi_usman30@yahoo.com,Current,RIVERS,Ikwerre,Debit,ATM,₦17021,315311.22,2024-02-06,Failed,ATM Cash Withdrawal
+TXN-0010,Tosin Bello,08138112228,tosin_bello@hotmail.com,Savings,Delta,Asaba,Debit,Bank Branch,₦24629,57036.6,2024-05-21,Successful,Fuel Payment
+TXN-0011,Musa Ibrahim,09098036139,musaibrahim@outlook.com,Current,Ogun,Ilaro,Credit,ATM,₦1971,359232.67,2024-08-11,Reversed,Dividend Payment
+TXN-0012,Nneka Lawal,09026105295,nnekalawal49@yahoo.com,Savings,Enugu,Awgu,Transfer,Bank Branch,₦592,677657.62,2024-03-22,Successful,NIP Transfer to Ifeanyi Salami
+TXN-0013,Kemi Tanko,08059160903,kemi_tanko@hotmail.com,Fixed Deposit,LAGOS,Lekki,Credit,Bank Branch,₦3828,112718.57,2024-04-26,Reversed,Salary Credit - Zenith Bank
+TXN-0014,Halima Yusuf,09071582397,halima.yusuf@yahoo.com,Fixed Deposit,Delta,Asaba,Transfer,ATM,₦2411,168923.18,2024-08-16,Failed,NIP Transfer to Sade Nwosu
+TXN-0015,Yusuf Adeleke,08078366881,yusuf_adeleke43@yahoo.com,Fixed Deposit,RIVERS,Obio-Akpor,Credit,Mobile App,₦77060,232692.47,2024-12-10,Pending,Freelance Income
+TXN-0016,Segun Adebayo,08065125624,segunadebayo4@yahoo.com,Savings,lagos,Ikeja,Debit,POS,₦2697,425954.41,2024-12-05,Successful,Airtime Purchase - MTN
+TXN-0017,Kemi Ibrahim,08075941061,kemi_ibrahim48@outlook.com,Current,Abuja,Asokoro,Credit,POS,₦1106,528079.23,2024-10-02,Successful,Salary Credit - NNPC
+TXN-0018,Aisha Okonkwo,08084993377,aisha.okonkwo10@gmail.com,Savings,anambra,Awka,Transfer,POS,₦772,419526.59,2024-09-28,Successful,Interbank Transfer - Access Bank
+TXN-0019,Ngozi Salami,08061947759,ngozi_salami@outlook.com,Savings,KADUNA,Igabi,Credit,USSD,₦19279,78645.55,2024-12-21,Pending,Freelance Income
+TXN-0020,Babatunde Abubakar,08052426142,babatundeabubakar10@hotmail.com,Current,Ogun,Ilaro,Debit,ATM,₦27007,589330.28,2024-04-14,Successful,ATM Cash Withdrawal
+TXN-0021,Ibrahim Adekunle,08068474842,ibrahim.adekunle@yahoo.com,Fixed Deposit,KANO,Gwale,Debit,ATM,₦3704,368873.25,2024-02-05,Pending,POS Payment - Chicken Republic
+TXN-0022,Chukwuemeka Ibrahim,07066711031,chukwuemekaibrahim19@hotmail.com,Savings,Anambra,Onitsha,Transfer,Bank Branch,₦17868,614434.65,2024-01-01,Pending,Transfer to Amina Okafor - Opay
+TXN-0023,Halima Nwofor,09028953520,halima_nwofor@yahoo.com,Current,Anambra,Nnewi,Transfer,ATM,₦3242,561835.04,2024-04-21,Successful,Transfer to Tosin Aliyu
+TXN-0024,Funke Ibrahim,08032601858,funke_ibrahim@hotmail.com,Fixed Deposit,Delta,Ughelli,Transfer,POS,₦54989,211374.52,2024-09-22,Successful,NIP Transfer to Ngozi Okafor
+TXN-0025,Tunde Suleiman,08139641352,tundesuleiman48@hotmail.com,Savings,Enugu,Oji River,Transfer,Mobile App,₦3703,52804.42,2024-11-17,Successful,Transfer to Yakubu Usman - Opay
+TXN-0026,Blessing Yusuf,09058842368,blessing.yusuf96@gmail.com,Current,ABUJA,Gwarinpa,Credit,POS,₦75138,476665.23,2024-03-10,Successful,Transfer from Ifeanyi Tanko
+TXN-0027,Chukwuemeka Okafor,08138258010,chukwuemekaokafor@outlook.com,Current,KADUNA,Kaduna South,Transfer,ATM,₦22480,648542.19,2024-05-03,Successful,Interbank Transfer - Access Bank
+TXN-0028,Chinyere Aliyu,07034003965,chinyerealiyu37@yahoo.com,Savings,LAGOS,Surulere,Debit,USSD,₦19551,740143.15,2024-11-23,Successful,POS Payment - Chicken Republic
+TXN-0029,Tunde Adebayo,08146494708,tunde_adebayo@yahoo.com,Fixed Deposit,enugu,Awgu,Transfer,Mobile App,₦4697,137967.58,2024-12-12,Failed,NIP Transfer to Nkechi Nwofor
+TXN-0030,Ngozi Garba,09057747525,ngozigarba65@yahoo.com,Current,anambra,Nnewi,Credit,POS,₦2672,457322.44,2024-07-24,Successful,Loan Disbursement - GTBank
+TXN-0031,Uche Eze,09093623635,ucheeze12@outlook.com,Current,ANAMBRA,Onitsha,Credit,POS,₦8531,71986.39,2024-06-10,Pending,Dividend Payment
+TXN-0032,Chioma Adekunle,09072795277,chioma_adekunle63@outlook.com,Savings,OYO,Iseyin,Transfer,ATM,₦424739,149971.56,2024-10-11,Reversed,Transfer to Oluwaseun Lawal - Opay
+TXN-0033,Uche Okonkwo,08062186801,ucheokonkwo29@gmail.com,Savings,Abuja,Asokoro,Transfer,Bank Branch,₦11242,97875.54,2024-06-25,Successful,Transfer to Oluwaseun Nwofor - Opay
+TXN-0034,Chukwuemeka Tanko,08135553407,chukwuemekatanko28@hotmail.com,Savings,Lagos,Ikeja,Debit,Mobile App,₦552,87895.05,2024-04-15,Pending,POS Payment - Chicken Republic
+TXN-0035,Nneka Obiora,08121065025,nneka_obiora35@hotmail.com,Fixed Deposit,kano,Dala,Transfer,POS,₦12692,282810.23,2024-11-27,Failed,Transfer to Ibrahim Usman
+TXN-0036,Aisha Garba,08145330284,aisha_garba1@hotmail.com,Savings,ogun,Ijebu-Ode,Credit,USSD,₦17927,652318.77,2024-12-08,Successful,Salary Credit - Access Bank
+TXN-0037,Babatunde Mohammed,09022024594,babatundemohammed32@outlook.com,Fixed Deposit,oyo,Iseyin,Debit,Mobile App,₦1006,200793.64,2024-12-09,Pending,POS Payment - Chicken Republic
+TXN-0038,Adaeze Nwofor,08066874637,adaeze.nwofor@yahoo.com,Fixed Deposit,ogun,Abeokuta,Debit,ATM,₦4511,750273.12,2024-12-17,Pending,Rent Payment
+TXN-0039,Zainab Nwachukwu,07013111110,zainab.nwachukwu@outlook.com,Savings,RIVERS,Port Harcourt,Transfer,ATM,₦4082,576887.25,2024-04-11,Successful,Transfer to Chidi Musa
+TXN-0040,Aisha Ibrahim,09070330885,aisha.ibrahim15@outlook.com,Fixed Deposit,Lagos,Victoria Island,Credit,Mobile App,₦126461,653124.77,2024-06-13,Failed,Transfer from Damilola Suleiman
+TXN-0041,Chioma Adeyemi,08068809797,chioma.adeyemi67@yahoo.com,Savings,lagos,Surulere,Debit,Mobile App,₦18814,484805.23,2024-03-28,Successful,POS Payment - Shoprite
+TXN-0042,Uche Usman,09032896404,uche_usman@yahoo.com,Savings,Enugu,Oji River,Transfer,USSD,₦62101,271731.55,2024-02-04,Successful,Transfer to Obinna Ibrahim
+TXN-0043,Bayo Adekunle,08083989179,bayo.adekunle@yahoo.com,Current,Oyo,Oyo,Debit,Bank Branch,₦125006,49612.68,2024-08-25,Pending,School Fees Payment
+TXN-0044,Damilola Okonkwo,08036899285,damilola_okonkwo14@gmail.com,Current,lagos,Yaba,Credit,ATM,₦60751,203150.7,2024-07-12,Successful,Business Revenue
+TXN-0045,Sade Salami,08020123493,sade_salami@hotmail.com,Savings,ANAMBRA,Ekwulobia,Transfer,Bank Branch,₦19106,,2024-02-12,Pending,NIP Transfer to Blessing Ogundipe
+TXN-0046,Chioma Mohammed,08069641115,chioma_mohammed@outlook.com,Savings,kaduna,Zaria,Debit,Mobile App,₦2008,628224.22,2024-02-14,Pending,Fuel Payment
+TXN-0047,Blessing Obi,08036774565,blessingobi@outlook.com,Fixed Deposit,Oyo,Iseyin,Transfer,POS,₦16998,55470.31,2024-10-28,Failed,Interbank Transfer - Access Bank
+TXN-0048,Sade Usman,08052356519,sadeusman@outlook.com,Fixed Deposit,Lagos,Ojodu,Debit,Bank Branch,₦8072,610382.59,2024-07-29,Reversed,Bill Payment - EKEDC
+TXN-0049,Biodun Adebayo,08050198085,biodunadebayo@outlook.com,Savings,kano,Fagge,Transfer,POS,₦4371,401285.66,2024-07-05,Successful,NIP Transfer to Uche Ogundipe
+TXN-0050,Halima Garba,09028232751,halima_garba@gmail.com,Fixed Deposit,OYO,Iseyin,Debit,Mobile App,₦14501,375836.04,2024-10-19,Successful,Rent Payment
+TXN-0051,Funke Nwosu,09064187053,funkenwosu@outlook.com,Fixed Deposit,Delta,Asaba,Credit,Mobile App,₦3344,519573.7,2024-01-11,Successful,Refund - Jumia
+TXN-0052,Bayo Okafor,07038560544,bayo_okafor7@gmail.com,Savings,enugu,Awgu,Credit,POS,₦16640,128471.42,2024-02-04,Reversed,Transfer from Kemi Okonkwo
+TXN-0053,Yakubu Musa,08025846139,yakubu.musa83@outlook.com,Fixed Deposit,ogun,Ota,Debit,POS,₦2500000,0,2024-08-24,Successful,POS Payment - Chicken Republic
+TXN-0054,Adaeze Ibrahim,09029547109,adaezeibrahim39@gmail.com,Savings,LAGOS,Surulere,Debit,ATM,₦8554,38567.32,2024-09-18,Successful,Rent Payment
+TXN-0055,Yusuf Yusuf,07015067453,yusufyusuf95@yahoo.com,Fixed Deposit,lagos,Ikeja,Transfer,POS,₦4021,428670.85,2024-04-02,Successful,Interbank Transfer - Access Bank
+TXN-0056,Segun Obiora,09073579624,segun.obiora59@hotmail.com,Fixed Deposit,LAGOS,Ikeja,Debit,ATM,₦3762,322950.41,2024-11-06,Reversed,POS Payment - Chicken Republic
+TXN-0057,Chinyere Adebayo,08168444534,chinyereadebayo38@yahoo.com,Fixed Deposit,ogun,Ilaro,Debit,Bank Branch,₦2267,142724.81,2024-10-09,Reversed,Fuel Payment
+TXN-0058,Tosin Nwofor,07031057839,tosin_nwofor43@gmail.com,Current,Abuja,Asokoro,Credit,ATM,₦724,249807.23,2024-08-23,Pending,Business Revenue
+TXN-0059,Segun Adeyemi,08050554113,segun.adeyemi@hotmail.com,Fixed Deposit,Kaduna,Kaduna South,Transfer,Mobile App,₦4863,424089.39,2024-01-03,Reversed,Interbank Transfer - Access Bank
+TXN-0060,Ifeanyi Mohammed,08157516277,ifeanyi.mohammed25@hotmail.com,Fixed Deposit,Oyo,Saki,Transfer,Bank Branch,₦13177,302460.52,2024-06-20,Successful,Transfer to Chukwuemeka Nwosu
+TXN-0061,Adaeze Adeyemi,07036649561,adaezeadeyemi55@yahoo.com,Current,OGUN,Ijebu-Ode,Credit,Mobile App,₦3032,433536.99,2024-07-17,Pending,Salary Credit - Dangote Group
+TXN-0062,Yusuf Suleiman,08075849184,yusuf_suleiman18@gmail.com,Savings,Lagos,Victoria Island,Credit,ATM,₦3766,571036.9,2024-07-20,Successful,Business Revenue
+TXN-0063,Tosin Adeleke,08143550243,tosinadeleke@hotmail.com,Savings,Ogun,Ilaro,Credit,ATM,₦1878,459263.8,2024-07-19,Successful,Dividend Payment
+TXN-0064,Emeka Bello,08087802826,emeka.bello@outlook.com,Current,kano,Gwale,Credit,Mobile App,₦3574,247471.01,2024-02-21,Successful,Dividend Payment
+TXN-0065,Biodun Mohammed,08024339699,biodun.mohammed3@yahoo.com,Fixed Deposit,Rivers,Port Harcourt,Credit,Bank Branch,₦6567,389614.56,2024-09-22,Failed,Transfer from Chukwuemeka Mohammed
+TXN-0066,Tunde Adeyemi,08151375365,tundeadeyemi@yahoo.com,Current,KANO,Fagge,Credit,ATM,₦2054,405211.83,2024-04-15,Reversed,Refund - Jumia
+TXN-0067,Ngozi Tanko,07067387213,ngozi.tanko9@yahoo.com,Savings,oyo,Iseyin,Transfer,POS,₦62223,537274.15,2024-05-03,Pending,Transfer to Blessing Mohammed
+TXN-0068,Nneka Ogundipe,08141481211,nneka.ogundipe90@hotmail.com,Current,Kaduna,Kaduna North,Debit,POS,₦8802,583418.48,2024-08-16,Successful,Rent Payment
+TXN-0069,Fatima Obiora,,fatima_obiora83@gmail.com,Savings,ABUJA,Wuse,Debit,Mobile App,₦19577,683864.36,2024-05-17,Successful,Rent Payment
+TXN-0070,Fatima Adebayo,07014506734,fatima.adebayo48@outlook.com,Fixed Deposit,abuja,Wuse,Credit,USSD,₦15505,344244.9,2024-11-29,Pending,Dividend Payment
+TXN-0071,Yusuf Eze,08030953614,yusufeze@hotmail.com,Fixed Deposit,Delta,Ughelli,Credit,Bank Branch,₦10695,67385.9,2024-03-28,Failed,Loan Disbursement - GTBank
+TXN-0072,Ibrahim Nwachukwu,08023070829,ibrahim_nwachukwu@gmail.com,Savings,ABUJA,Asokoro,Transfer,POS,₦1574,550486.21,2024-10-04,Failed,Transfer to Chukwuemeka Adeleke
+TXN-0073,Oluwaseun Obiora,09032150316,oluwaseun.obiora4@gmail.com,Fixed Deposit,ANAMBRA,Nnewi,Debit,POS,₦4191,26561.64,2024-10-29,Successful,ATM Cash Withdrawal
+TXN-0074,Damilola Adeyemi,08057978019,damilolaadeyemi45@outlook.com,Fixed Deposit,Lagos,Victoria Island,Credit,Mobile App,₦4971,658947.89,2024-06-26,Successful,Salary Credit - NNPC
+TXN-0075,Babatunde Adeyemi,08053039538,babatundeadeyemi@outlook.com,Savings,lagos,Yaba,Debit,POS,₦13798,738241.92,2024-09-24,Reversed,School Fees Payment
+TXN-0076,Nkechi Salami,09076074670,nkechi.salami@outlook.com,Current,anambra,Awka,Credit,POS,₦18944,621027.01,2024-10-06,Failed,Loan Disbursement - GTBank
+TXN-0077,Bayo Lawal,09078271287,bayo.lawal77@outlook.com,Savings,enugu,Oji River,Credit,POS,₦184763,352170.58,2024-03-15,Successful,Freelance Income
+TXN-0078,Funke Yusuf,09093263955,funke_yusuf@gmail.com,Savings,kaduna,Kaduna North,Debit,POS,₦41409,332954.34,2024-10-10,Pending,Airtime Purchase - MTN
+TXN-0079,Kayode Adebayo,09037952172,kayode.adebayo@gmail.com,Current,delta,Agbor,Debit,ATM,₦3076,445993.46,2024-04-25,Successful,Bill Payment - EKEDC
+TXN-0080,Chinyere Musa,08153127891,chinyere.musa39@yahoo.com,Current,KANO,Dala,Credit,USSD,₦18474,190375.11,2024-09-22,Reversed,Business Revenue
+TXN-0081,Ifeanyi Chukwu,08067684083,ifeanyichukwu@yahoo.com,Current,anambra,Ekwulobia,Credit,ATM,₦6723,384118.89,2024-02-27,Successful,Dividend Payment
+TXN-0082,Ibrahim Aliyu,08089617812,ibrahim_aliyu70@yahoo.com,Fixed Deposit,OYO,Saki,Debit,Bank Branch,₦7535,189926.74,2024-06-16,Successful,Supermarket Purchase
+TXN-0083,Kayode Bello,09077111117,kayode.bello35@hotmail.com,Savings,kaduna,Kaduna South,Debit,USSD,₦74247,434671.33,2024-01-05,Successful,POS Payment - Shoprite
+TXN-0084,Zainab Mohammed,09099892308,zainabmohammed90@gmail.com,Current,ANAMBRA,Awka,Transfer,Bank Branch,₦2829,571624.58,2024-01-21,Successful,Transfer to Amina Tanko - Opay
+TXN-0085,Zainab Ogundipe,08138937064,zainab_ogundipe@gmail.com,Savings,Enugu,Oji River,Transfer,Mobile App,₦24924,144246.87,2024-02-16,Successful,Transfer to Nneka Tanko - Opay
+TXN-0086,Kayode Bello,09075353185,kayode.bello@outlook.com,Fixed Deposit,anambra,Onitsha,Credit,Bank Branch,₦1284,542554.15,2024-12-06,Successful,Dividend Payment
+TXN-0087,Obinna Yusuf,07035434031,obinnayusuf@gmail.com,Fixed Deposit,ogun,Ijebu-Ode,Credit,USSD,₦62178,551108.74,2024-12-31,Successful,Transfer from Kayode Adebayo
+TXN-0088,Segun Garba,08054301059,segun.garba@hotmail.com,Savings,ogun,Ilaro,Debit,Bank Branch,₦205641,0,2024-02-03,Successful,Rent Payment
+TXN-0089,Babatunde Adebayo,09036925834,babatundeadebayo60@gmail.com,Fixed Deposit,Kaduna,Kaduna South,Credit,ATM,₦60652,150489.35,2024-06-01,Successful,Loan Disbursement - GTBank
+TXN-0090,Ngozi Musa,09062737340,ngozi_musa7@outlook.com,Fixed Deposit,OGUN,Ijebu-Ode,Transfer,Bank Branch,₦7355,466209.23,2024-05-25,Successful,Transfer to Halima Aliyu
+TXN-0091,Bayo Obiora,07037233589,bayo.obiora@gmail.com,Current,Kano,Dala,Credit,Mobile App,₦3183,147655.92,2024-04-06,Pending,Refund - Jumia
+TXN-0092,Fatima Ibrahim,,fatima.ibrahim@hotmail.com,Savings,RIVERS,Eleme,Debit,ATM,₦19654,77657.73,2024-07-13,Reversed,ATM Cash Withdrawal
+TXN-0093,Bayo Suleiman,09079510086,bayo_suleiman78@yahoo.com,Current,LAGOS,Lekki,Transfer,Bank Branch,₦3781,8408.85,2024-05-30,Reversed,Transfer to Funke Eze
+TXN-0094,Emeka Aliyu,08125210884,emeka.aliyu71@yahoo.com,Current,ENUGU,Agbani,Transfer,Bank Branch,₦120714,117517.78,2024-01-10,Successful,Interbank Transfer - Access Bank
+TXN-0095,Nkechi Nwofor,09030737610,nkechinwofor92@yahoo.com,Fixed Deposit,Anambra,Nnewi,Transfer,USSD,₦159587,697875.72,2024-06-12,Pending,Transfer to Nkechi Adebayo - Opay
+TXN-0096,Biodun Salami,09094537854,biodun.salami52@hotmail.com,Savings,LAGOS,Yaba,Debit,POS,₦18840,6828.11,2024-03-21,Successful,School Fees Payment
+TXN-0097,Obinna Musa,09067435101,obinnamusa76@outlook.com,Fixed Deposit,DELTA,Agbor,Credit,ATM,₦10224,696436.85,2024-11-01,Failed,Refund - Jumia
+TXN-0098,Chinyere Abubakar,09078193889,chinyere.abubakar@gmail.com,Fixed Deposit,delta,Ughelli,Credit,Mobile App,₦504,244289.34,2024-09-01,Failed,Business Revenue
+TXN-0099,Emeka Suleiman,08121811629,emeka.suleiman@hotmail.com,Fixed Deposit,ENUGU,Awgu,Transfer,Mobile App,₦135329,512182.67,2024-08-12,Reversed,Interbank Transfer - Access Bank
+TXN-0100,Yakubu Musa,08074907770,yakubumusa@outlook.com,Fixed Deposit,Kano,Gwale,Credit,Bank Branch,₦3848,799002.34,2024-10-16,Failed,Business Revenue
+TXN-0101,Blessing Usman,09076925119,blessing.usman@yahoo.com,Current,ENUGU,Oji River,Transfer,USSD,₦1356,411243.88,2024-03-29,Successful,Transfer to Blessing Okafor
+TXN-0102,Funke Salami,07014087144,funke_salami3@yahoo.com,Fixed Deposit,OGUN,Sagamu,Debit,Bank Branch,₦168033,42141.85,2024-01-05,Successful,POS Payment - Chicken Republic
+TXN-0103,Tunde Okonkwo,,tunde_okonkwo65@yahoo.com,Fixed Deposit,Ogun,Abeokuta,Transfer,POS,₦3112,497795.54,2024-04-06,Successful,Transfer to Rukayat Nwosu
+TXN-0104,Obinna Tanko,08149456831,obinna.tanko@gmail.com,Savings,OGUN,Ilaro,Credit,POS,₦3399,636819.06,2024-09-25,Pending,Business Revenue
+TXN-0105,Fatima Abubakar,09035678556,fatima.abubakar@gmail.com,Savings,ANAMBRA,Nnewi,Debit,POS,₦3861,707032.9,2024-05-20,Successful,Fuel Payment
+TXN-0106,Tunde Adebayo,08165734964,tundeadebayo69@yahoo.com,Current,Kaduna,Igabi,Credit,USSD,₦2490,281131.33,2024-01-25,Reversed,Transfer from Tunde Yusuf
+TXN-0107,Funke Adeleke,08078603600,funke.adeleke49@outlook.com,Current,ABUJA,Wuse,Credit,Bank Branch,₦182962,215023.02,2024-05-13,Successful,Dividend Payment
+TXN-0108,Zainab Adekunle,08129303663,zainab.adekunle@hotmail.com,Current,Oyo,Iseyin,Credit,ATM,₦1604,176417.77,2024-09-05,Reversed,Business Revenue
+TXN-0109,Blessing Adeyemi,08021304683,blessing.adeyemi67@gmail.com,Fixed Deposit,abuja,Wuse,Credit,POS,₦1197,195749.32,2024-03-03,Pending,Refund - Jumia
+TXN-0110,Segun Yusuf,08150507765,segun.yusuf@hotmail.com,Fixed Deposit,Lagos,Lekki,Credit,POS,₦14211,241742.03,2024-09-27,Successful,Business Revenue
+TXN-0111,Yakubu Mohammed,09051283146,yakubu_mohammed62@gmail.com,Current,OYO,Oyo,Debit,ATM,₦49381,540109.31,2024-04-03,Pending,POS Payment - Chicken Republic
+TXN-0112,Bayo Tanko,08067481369,bayo_tanko30@outlook.com,Current,kaduna,Kaduna South,Credit,Mobile App,₦7383,454379.39,2024-04-12,Reversed,Refund - Jumia
+TXN-0113,Kemi Adebayo,08129367419,kemi_adebayo@hotmail.com,Savings,Rivers,Obio-Akpor,Transfer,POS,₦1943,779793.43,2024-05-18,Successful,Transfer to Funke Lawal - Opay
+TXN-0114,Oluwaseun Obi,09067344855,oluwaseun_obi29@outlook.com,Current,enugu,Agbani,Credit,ATM,₦1910,468320.96,2024-04-20,Successful,Loan Disbursement - GTBank
+TXN-0115,Ifeanyi Aliyu,08084270933,ifeanyialiyu66@hotmail.com,Savings,Oyo,Oyo,Credit,Bank Branch,₦10837,696885.03,2024-01-18,Failed,Business Revenue
+TXN-0116,Fatima Obi,09021105788,fatima.obi@outlook.com,Current,Delta,Sapele,Credit,ATM,₦4412,633718.83,2024-03-13,Failed,Transfer from Ngozi Obi
+TXN-0117,Uche Adeyemi,08144030453,uche.adeyemi@outlook.com,Fixed Deposit,DELTA,Warri,Debit,Bank Branch,₦15142,135210.6,2024-09-28,Successful,Rent Payment
+TXN-0118,Damilola Aliyu,,damilolaaliyu@yahoo.com,Fixed Deposit,Abuja,Gwarinpa,Debit,USSD,₦179533,19074.69,2024-05-29,Reversed,Airtime Purchase - MTN
+TXN-0119,Funke Usman,07033993823,funkeusman66@hotmail.com,Current,ENUGU,Oji River,Transfer,POS,₦156687,270223.87,2024-09-23,Successful,Interbank Transfer - Access Bank
+TXN-0120,Oluwaseun Lawal,09033775443,oluwaseun_lawal@outlook.com,Current,KANO,Dala,Credit,Mobile App,₦2809,707072.77,2024-04-16,Successful,Dividend Payment
+TXN-0121,Tosin Adeleke,08079986442,tosin.adeleke79@yahoo.com,Fixed Deposit,kaduna,Kaduna South,Credit,USSD,₦11857,489445.96,2024-10-07,Successful,Transfer from Fatima Yusuf
+TXN-0122,Chukwuemeka Okafor,07019287485,chukwuemekaokafor71@gmail.com,Savings,kano,Tarauni,Credit,Mobile App,₦289836,777021.7,2024-12-18,Reversed,Loan Disbursement - GTBank
+TXN-0123,Ngozi Adeyemi,08154567131,ngoziadeyemi@hotmail.com,Fixed Deposit,Delta,Agbor,Credit,Mobile App,₦4377,292749.57,2024-03-29,Successful,Transfer from Chinyere Adeyemi
+TXN-0124,Biodun Bello,08131534489,biodun.bello@yahoo.com,Current,Rivers,Obio-Akpor,Debit,ATM,₦4635,195479.2,2024-02-20,Successful,POS Payment - Shoprite
+TXN-0125,Halima Nwosu,08144204707,halima_nwosu@gmail.com,Fixed Deposit,ABUJA,Maitama,Credit,USSD,₦4365,154740.88,2024-10-03,Failed,Loan Disbursement - GTBank
+TXN-0126,Yakubu Yusuf,08066127294,yakubu_yusuf@outlook.com,Savings,OYO,Oyo,Debit,ATM,₦76018,535243.37,2024-12-23,Pending,Supermarket Purchase
+TXN-0127,Yakubu Nwachukwu,08139472871,yakubu_nwachukwu3@hotmail.com,Fixed Deposit,Rivers,Port Harcourt,Credit,POS,₦1671,320496.14,2024-03-02,Successful,Loan Disbursement - GTBank
+TXN-0128,Ngozi Mohammed,,ngozimohammed@yahoo.com,Current,Anambra,Awka,Credit,Mobile App,₦956,699501.33,2024-03-10,Failed,Transfer from Kemi Nwachukwu
+TXN-0129,Yusuf Suleiman,08138334521,yusuf_suleiman86@hotmail.com,Savings,Enugu,Nsukka,Transfer,Bank Branch,₦76357,,2024-09-28,Successful,Transfer to Segun Yusuf - Opay
+TXN-0130,Damilola Mohammed,08152342603,damilola.mohammed15@yahoo.com,Fixed Deposit,KADUNA,Kaduna South,Credit,Bank Branch,₦12804,759205.79,2024-04-03,Failed,Dividend Payment
+TXN-0131,Nkechi Aliyu,09054554692,nkechi.aliyu@hotmail.com,Savings,Kaduna,Igabi,Debit,USSD,₦428090,0,2024-04-03,Successful,Bill Payment - EKEDC
+TXN-0132,Chukwuemeka Adeyemi,08152330503,chukwuemeka_adeyemi@yahoo.com,Savings,abuja,Maitama,Credit,Bank Branch,₦2108,387196.57,2024-04-16,Failed,Salary Credit - Access Bank
+TXN-0133,Damilola Obiora,08037307784,damilola.obiora63@outlook.com,Savings,enugu,Oji River,Transfer,POS,₦54083,214845.96,2024-02-19,Failed,NIP Transfer to Oluwaseun Mohammed
+TXN-0134,Nneka Suleiman,08050151413,nnekasuleiman@yahoo.com,Savings,ENUGU,Nsukka,Debit,Bank Branch,₦7071,615484.56,2024-08-24,Successful,Bill Payment - EKEDC
+TXN-0135,Emeka Okonkwo,08063650204,emeka.okonkwo@outlook.com,Savings,Lagos,Surulere,Credit,ATM,₦14886,164595.48,2024-02-03,Failed,Refund - Jumia
+TXN-0136,Sade Yusuf,08142149044,sade_yusuf@yahoo.com,Savings,KANO,Dala,Transfer,Bank Branch,₦2980,178270.75,2024-04-03,Successful,NIP Transfer to Zainab Chukwu
+TXN-0137,Oluwaseun Nwosu,08102488354,oluwaseun_nwosu26@hotmail.com,Current,abuja,Asokoro,Transfer,Mobile App,₦3887,526092.37,2024-03-25,Successful,Interbank Transfer - Access Bank
+TXN-0138,Uche Abubakar,09061531544,uche.abubakar@outlook.com,Savings,Anambra,Ekwulobia,Transfer,POS,₦310950,0,2024-07-13,Failed,NIP Transfer to Obinna Adeyemi
+TXN-0139,Kemi Bello,07068864607,kemi.bello@hotmail.com,Fixed Deposit,oyo,Ogbomosho,Transfer,POS,₦527,786698.58,2024-03-06,Reversed,Interbank Transfer - Access Bank
+TXN-0140,Uche Adeyemi,08032131452,ucheadeyemi40@yahoo.com,Current,Oyo,Ogbomosho,Debit,ATM,₦2046,431535.69,2024-09-11,Pending,POS Payment - Chicken Republic
+TXN-0141,Ngozi Adeyemi,09096401332,ngoziadeyemi65@yahoo.com,Current,Kano,Dala,Credit,ATM,₦3061,214895.41,2024-06-20,Successful,Loan Disbursement - GTBank
+TXN-0142,Zainab Nwofor,08108937255,zainab.nwofor1@hotmail.com,Fixed Deposit,RIVERS,Oyigbo,Credit,ATM,₦76459,475603.53,2024-10-07,Successful,Dividend Payment
+TXN-0143,Biodun Okonkwo,08065573858,biodun_okonkwo@yahoo.com,Current,kaduna,Kafanchan,Debit,ATM,₦2867,136640.02,2024-09-07,Successful,POS Payment - Shoprite
+TXN-0144,Halima Usman,08109303488,halima.usman97@gmail.com,Fixed Deposit,DELTA,Ughelli,Transfer,Bank Branch,₦14639,350403.09,2024-03-27,Reversed,Interbank Transfer - Access Bank
+TXN-0145,Tosin Tanko,08066815686,tosintanko23@hotmail.com,Fixed Deposit,kaduna,Kaduna North,Transfer,POS,₦70169,719381.69,2024-04-30,Reversed,Transfer to Uche Usman - Opay
+TXN-0146,Segun Lawal,08055592296,segun.lawal34@hotmail.com,Savings,ogun,Ota,Debit,ATM,₦7702,559886.89,2024-03-01,Failed,ATM Cash Withdrawal
+TXN-0147,Chidi Okonkwo,08155055861,chidiokonkwo4@hotmail.com,Fixed Deposit,OYO,Ibadan,Transfer,POS,₦4941,424457.36,2024-10-06,Successful,Interbank Transfer - Access Bank
+TXN-0148,Chukwuemeka Aliyu,07014269423,chukwuemeka.aliyu27@gmail.com,Current,rivers,Port Harcourt,Credit,Bank Branch,₦39037,154765.67,2024-09-28,Failed,Business Revenue
+TXN-0149,Tosin Ogundipe,08055409350,tosinogundipe36@hotmail.com,Savings,ANAMBRA,Ekwulobia,Transfer,ATM,₦4770,129023.36,2024-04-18,Successful,Transfer to Musa Bello - Opay
+TXN-0150,Zainab Eze,08051215277,zainabeze@yahoo.com,Current,KADUNA,Kaduna South,Debit,USSD,₦2597,225767.23,2024-03-21,Reversed,Airtime Purchase - MTN
+TXN-0151,Zainab Nwachukwu,08025392943,zainabnwachukwu55@gmail.com,Savings,ogun,Sagamu,Debit,POS,₦8506,227217.21,2024-12-28,Pending,Rent Payment
+TXN-0152,Ngozi Yusuf,08127411686,ngoziyusuf@hotmail.com,Savings,Kaduna,Igabi,Transfer,POS,₦54148,304914.64,2024-11-27,Successful,Transfer to Segun Adebayo
+TXN-0153,Oluwaseun Nwosu,08123510262,oluwaseun_nwosu@gmail.com,Fixed Deposit,Kano,Nasarawa,Credit,ATM,₦630,783824.68,2024-10-02,Successful,Business Revenue
+TXN-0154,Tosin Usman,08059048190,tosin_usman@gmail.com,Current,rivers,Oyigbo,Credit,Mobile App,₦180878,379772.92,2024-04-16,Successful,Transfer from Halima Okafor
+TXN-0155,Chioma Ogundipe,08122651745,chiomaogundipe@yahoo.com,Fixed Deposit,Lagos,Lekki,Credit,USSD,₦3481,161114.32,2024-11-11,Pending,Business Revenue
+TXN-0156,Blessing Okafor,08059847693,blessing.okafor@hotmail.com,Current,oyo,Oyo,Debit,ATM,₦2156,425087.18,2024-02-25,Pending,Fuel Payment
+TXN-0157,Funke Garba,08051510333,funke.garba24@yahoo.com,Savings,KANO,Dala,Credit,Mobile App,₦10538,348931.9,2024-04-15,Successful,Dividend Payment
+TXN-0158,Biodun Nwosu,09058624135,biodun_nwosu@outlook.com,Current,ENUGU,Nsukka,Debit,USSD,₦13574,750807.23,2024-02-08,Successful,POS Payment - Shoprite
+TXN-0159,Zainab Mohammed,08035387356,zainab.mohammed@hotmail.com,Fixed Deposit,delta,Ughelli,Debit,USSD,₦107959,711664.89,2024-01-01,Failed,Supermarket Purchase
+TXN-0160,Ngozi Tanko,09037250135,ngozi_tanko@hotmail.com,Current,delta,Asaba,Credit,POS,₦9426,483605.88,2024-06-13,Successful,Transfer from Obinna Adeleke
+TXN-0161,Kayode Obi,08155154257,kayodeobi@gmail.com,Current,abuja,Asokoro,Transfer,USSD,₦88378,204968.11,2024-09-26,Successful,NIP Transfer to Nneka Mohammed
+TXN-0162,Halima Lawal,07032540558,halima_lawal@hotmail.com,Fixed Deposit,Enugu,Nsukka,Transfer,Bank Branch,₦2077,277897.51,2024-03-19,Failed,Transfer to Rukayat Chukwu - Opay
+TXN-0163,Chukwuemeka Nwosu,08058577755,chukwuemeka.nwosu35@gmail.com,Fixed Deposit,OGUN,Ijebu-Ode,Debit,POS,₦21812,193325.98,2024-09-22,Reversed,POS Payment - Shoprite
+TXN-0164,Aisha Okonkwo,07063127655,aisha.okonkwo85@outlook.com,Savings,OGUN,Sagamu,Debit,ATM,₦179313,108936.37,2024-08-01,Pending,ATM Cash Withdrawal
+TXN-0165,Zainab Musa,08029140028,zainab.musa@hotmail.com,Fixed Deposit,kaduna,Zaria,Debit,Bank Branch,₦70663,227778.11,2024-02-12,Pending,Bill Payment - EKEDC
+TXN-0166,Babatunde Adekunle,08129185342,babatundeadekunle86@hotmail.com,Savings,anambra,Onitsha,Transfer,Bank Branch,₦9074,404914.23,2024-10-27,Failed,Interbank Transfer - Access Bank
+TXN-0167,Tunde Nwofor,08169902147,tundenwofor67@gmail.com,Current,OYO,Oyo,Debit,Mobile App,₦54795,610022.53,2024-11-20,Successful,ATM Cash Withdrawal
+TXN-0168,Nneka Obi,09071577226,nnekaobi@yahoo.com,Savings,Rivers,Port Harcourt,Transfer,USSD,₦29179,508491.02,2024-04-21,Reversed,Transfer to Funke Tanko - Opay
+TXN-0169,Zainab Adebayo,08025825307,zainab.adebayo@yahoo.com,Fixed Deposit,enugu,Oji River,Debit,ATM,₦98891,303904.52,2024-04-09,Successful,Airtime Purchase - MTN
+TXN-0170,Tunde Abubakar,08088774378,tunde.abubakar@hotmail.com,Fixed Deposit,Rivers,Port Harcourt,Debit,Mobile App,₦16758,228352.33,2024-09-29,Successful,School Fees Payment
+TXN-0171,Bayo Lawal,08079752260,bayo_lawal49@gmail.com,Savings,ENUGU,Agbani,Debit,POS,₦1404,309676.1,2024-03-23,Successful,Airtime Purchase - MTN
+TXN-0172,Chukwuemeka Obiora,08106363728,chukwuemekaobiora@gmail.com,Savings,OGUN,Abeokuta,Debit,USSD,₦7394,444951.75,2024-12-04,Pending,ATM Cash Withdrawal
+TXN-0173,Nkechi Obi,08030151642,nkechi_obi@gmail.com,Fixed Deposit,Anambra,Awka,Credit,Bank Branch,₦62571,820841.24,2024-12-20,Successful,Refund - Jumia
+TXN-0174,Nneka Obiora,08055871889,nneka_obiora@outlook.com,Fixed Deposit,ENUGU,Oji River,Debit,Mobile App,₦4131,647521.53,2024-04-03,Failed,Supermarket Purchase
+TXN-0175,Yusuf Obi,09094227893,yusuf.obi@hotmail.com,Savings,DELTA,Warri,Credit,Bank Branch,₦65072,356560.46,2024-06-25,Successful,Transfer from Ibrahim Ibrahim
+TXN-0176,Adaeze Okafor,09051903096,adaeze_okafor75@gmail.com,Current,kaduna,Kafanchan,Credit,Mobile App,₦351244,646679.62,2024-03-05,Reversed,Business Revenue
+TXN-0177,Rukayat Eze,08029805589,rukayat.eze@yahoo.com,Current,KANO,Fagge,Debit,POS,₦3484,528068.85,2024-09-30,Pending,ATM Cash Withdrawal
+TXN-0178,Chidi Nwofor,08083594729,chidi_nwofor@hotmail.com,Fixed Deposit,RIVERS,Eleme,Credit,USSD,₦2206,742700.0,2024-06-14,Pending,Salary Credit - Federal Civil Service
+TXN-0179,Fatima Okafor,08160648450,fatimaokafor@gmail.com,Current,Delta,Warri,Debit,Bank Branch,₦3645,178122.11,2024-01-23,Failed,POS Payment - Chicken Republic
+TXN-0180,Nneka Ogundipe,07037744043,nnekaogundipe@gmail.com,Savings,Rivers,Port Harcourt,Credit,Bank Branch,₦137602,526640.71,2024-05-20,Reversed,Transfer from Halima Nwachukwu
+TXN-0181,Ibrahim Abubakar,08133690254,ibrahimabubakar@outlook.com,Fixed Deposit,Kaduna,Kaduna North,Debit,POS,₦7171,562135.54,2024-06-07,Pending,Airtime Purchase - MTN
+TXN-0182,Babatunde Ibrahim,08125289863,babatundeibrahim@gmail.com,Current,ANAMBRA,Awka,Transfer,Bank Branch,₦11796,550905.24,2024-06-24,Successful,Transfer to Zainab Nwachukwu
+TXN-0183,Rukayat Mohammed,08034798732,rukayat_mohammed3@yahoo.com,Current,ANAMBRA,Ogidi,Debit,USSD,₦164251,597650.73,2024-05-02,Successful,POS Payment - Chicken Republic
+TXN-0184,Aisha Abubakar,09027500051,aisha.abubakar56@yahoo.com,Savings,kaduna,Kaduna North,Debit,ATM,₦16105,0,2024-07-19,Pending,Rent Payment
+TXN-0185,Chinyere Ogundipe,07014865109,chinyereogundipe@gmail.com,Fixed Deposit,Ogun,Ilaro,Transfer,POS,₦98834,621783.74,2024-04-23,Failed,NIP Transfer to Chioma Nwosu
+TXN-0186,Kemi Adeleke,08153068153,kemi_adeleke@gmail.com,Current,KANO,Nasarawa,Credit,Bank Branch,₦4484,574953.79,2024-05-20,Successful,Refund - Jumia
+TXN-0187,Segun Nwosu,08037459967,segun_nwosu12@gmail.com,Savings,Delta,Warri,Debit,POS,₦59324,252378.9,2024-11-03,Pending,POS Payment - Shoprite
+TXN-0188,Kayode Adekunle,09023907510,kayodeadekunle@yahoo.com,Savings,anambra,Onitsha,Credit,ATM,₦9104,225299.55,2024-05-11,Successful,Refund - Jumia
+TXN-0189,Oluwaseun Aliyu,08084408949,oluwaseun_aliyu@outlook.com,Current,anambra,Nnewi,Credit,USSD,₦111319,102501.99,2024-11-03,Successful,Freelance Income
+TXN-0190,Yusuf Chukwu,08132194685,yusuf_chukwu@outlook.com,Savings,ANAMBRA,Ekwulobia,Transfer,USSD,₦14741,731193.14,2024-08-28,Pending,Transfer to Rukayat Tanko - Opay
+TXN-0191,Ibrahim Lawal,09037371530,ibrahim_lawal@yahoo.com,Fixed Deposit,ogun,Ota,Transfer,POS,₦6190,760424.05,2024-07-10,Successful,Transfer to Tosin Chukwu
+TXN-0192,Obinna Garba,08071174639,obinnagarba@outlook.com,Fixed Deposit,Anambra,Nnewi,Credit,USSD,₦4197,532236.09,2024-04-09,Reversed,Salary Credit - Federal Civil Service
+TXN-0193,Ifeanyi Yusuf,07067285551,ifeanyi_yusuf@hotmail.com,Fixed Deposit,Kano,Tarauni,Debit,ATM,₦19245,112684.93,2024-10-30,Pending,Airtime Purchase - MTN
+TXN-0194,Tosin Nwosu,08123980173,tosin_nwosu19@hotmail.com,Current,Anambra,Onitsha,Transfer,USSD,₦186449,0,2024-09-07,Successful,Transfer to Halima Obiora - Opay
+TXN-0195,Uche Salami,,uche.salami75@hotmail.com,Savings,rivers,Eleme,Transfer,USSD,₦171326,99547.79,2024-01-29,Successful,Transfer to Chidi Aliyu
+TXN-0196,Chinyere Nwachukwu,08143439109,chinyere_nwachukwu@yahoo.com,Fixed Deposit,delta,Ughelli,Transfer,Bank Branch,₦3186,346252.23,2024-10-09,Pending,NIP Transfer to Bayo Usman
+TXN-0197,Yusuf Musa,08051820753,yusuf.musa@outlook.com,Current,anambra,Onitsha,Credit,Bank Branch,₦76860,,2024-11-15,Reversed,Loan Disbursement - GTBank
+TXN-0198,Chidi Chukwu,09039142560,chidichukwu@gmail.com,Savings,delta,Ughelli,Credit,POS,₦4895,476699.21,2024-01-04,Failed,Business Revenue
+TXN-0199,Oluwaseun Adeleke,09076076291,oluwaseunadeleke@outlook.com,Current,ABUJA,Gwarinpa,Transfer,USSD,₦14329,125213.66,2024-07-24,Successful,Transfer to Aisha Nwofor - Opay
+TXN-0200,Ibrahim Nwachukwu,08166695252,ibrahimnwachukwu41@hotmail.com,Savings,Rivers,Ikwerre,Credit,Bank Branch,₦9625,275001.45,2024-02-26,Successful,Refund - Jumia
+TXN-0201,Damilola Abubakar,08057370086,damilola.abubakar80@gmail.com,Current,Enugu,Nsukka,Transfer,USSD,₦10319,534703.22,2024-12-15,Successful,Transfer to Chukwuemeka Okafor
+TXN-0202,Tosin Ogundipe,09099358918,tosin_ogundipe98@gmail.com,Current,kano,Fagge,Transfer,USSD,₦1862,58393.49,2024-08-06,Failed,Interbank Transfer - Access Bank
+TXN-0203,Tosin Usman,07039059555,tosinusman@yahoo.com,Current,KANO,Tarauni,Credit,USSD,₦9242,436475.81,2024-05-07,Pending,Dividend Payment
+TXN-0204,Adaeze Suleiman,08128377907,adaeze.suleiman@hotmail.com,Fixed Deposit,oyo,Ogbomosho,Transfer,ATM,₦3504,531435.8,2024-05-12,Failed,NIP Transfer to Nkechi Adeleke
+TXN-0205,Kemi Salami,09035048117,kemi_salami44@yahoo.com,Current,Abuja,Gwarinpa,Transfer,Bank Branch,₦10389,357010.94,2024-04-14,Failed,Transfer to Tunde Garba - Opay
+TXN-0206,Uche Okonkwo,09056382109,ucheokonkwo@yahoo.com,Current,Abuja,Asokoro,Credit,USSD,₦19856,747047.15,2024-10-08,Pending,Business Revenue
+TXN-0207,Amina Ibrahim,,amina.ibrahim60@outlook.com,Fixed Deposit,ENUGU,Nsukka,Credit,ATM,₦33923,259609.09,2024-04-24,Reversed,Loan Disbursement - GTBank
+TXN-0208,Bayo Adeyemi,09073079694,bayoadeyemi@hotmail.com,Savings,Enugu,Enugu,Credit,USSD,₦12954,558616.41,2024-05-24,Successful,Business Revenue
+TXN-0209,Ifeanyi Adebayo,08060707416,ifeanyi.adebayo14@hotmail.com,Current,OGUN,Abeokuta,Debit,POS,₦2684,732217.5,2024-08-03,Successful,Fuel Payment
+TXN-0210,Emeka Bello,08168845419,emeka.bello68@yahoo.com,Savings,Anambra,Ekwulobia,Debit,ATM,₦6327,580025.34,2024-11-11,Reversed,Supermarket Purchase
+TXN-0211,Yakubu Musa,09026389303,yakubumusa70@gmail.com,Fixed Deposit,delta,Ughelli,Transfer,POS,₦9845,736187.24,2024-01-26,Successful,Transfer to Nneka Nwosu - Opay
+TXN-0212,Ifeanyi Garba,09052830003,ifeanyigarba@hotmail.com,Current,kaduna,Zaria,Credit,ATM,₦1339,141726.47,2024-02-16,Successful,Freelance Income
+TXN-0213,Biodun Usman,09036916657,biodun.usman43@yahoo.com,Current,rivers,Obio-Akpor,Transfer,Bank Branch,₦12975,467631.01,2024-06-23,Successful,Interbank Transfer - Access Bank
+TXN-0214,Sade Usman,08051575453,sade_usman@gmail.com,Current,Delta,Agbor,Transfer,ATM,₦3150000,0,2024-10-04,Reversed,Interbank Transfer - Access Bank
+TXN-0215,Chidi Adeleke,09097557990,chidiadeleke@outlook.com,Savings,OGUN,Sagamu,Transfer,USSD,₦4746,380903.87,2024-01-17,Successful,Interbank Transfer - Access Bank
+TXN-0216,Zainab Eze,08062901201,zainab_eze@outlook.com,Current,Anambra,Nnewi,Credit,USSD,₦133202,865098.95,2024-12-08,Failed,Dividend Payment
+TXN-0217,Aisha Adekunle,08051489893,aisha_adekunle82@hotmail.com,Current,enugu,Nsukka,Debit,USSD,₦8922,242181.92,2024-08-21,Reversed,Supermarket Purchase
+TXN-0218,Babatunde Chukwu,07063428238,babatunde.chukwu@yahoo.com,Fixed Deposit,KADUNA,Kaduna North,Transfer,POS,₦91512,692276.84,2024-01-11,Successful,Transfer to Ngozi Garba - Opay
+TXN-0219,Fatima Adebayo,08058208593,fatima_adebayo@yahoo.com,Current,abuja,Garki,Credit,Mobile App,₦2284,413462.21,2024-01-25,Reversed,Salary Credit - Dangote Group
+TXN-0220,Ifeanyi Musa,07069335856,ifeanyimusa41@gmail.com,Savings,ogun,Ijebu-Ode,Transfer,ATM,₦2530,118246.15,2024-01-01,Successful,NIP Transfer to Kayode Adekunle
+TXN-0221,Kemi Tanko,08064735607,kemi_tanko@outlook.com,Fixed Deposit,Rivers,Obio-Akpor,Transfer,Mobile App,₦27249,440537.73,2024-05-12,Reversed,Transfer to Kemi Bello - Opay
+TXN-0222,Yakubu Obiora,08159998710,yakubu_obiora60@hotmail.com,Fixed Deposit,DELTA,Warri,Transfer,ATM,₦26959,235093.91,2024-11-10,Successful,Interbank Transfer - Access Bank
+TXN-0223,Musa Lawal,08085405197,musa_lawal@outlook.com,Savings,abuja,Garki,Debit,ATM,₦17398,750251.86,2024-09-24,Pending,ATM Cash Withdrawal
+TXN-0224,Rukayat Obi,08081753367,rukayat.obi83@outlook.com,Fixed Deposit,Enugu,Oji River,Debit,ATM,₦2543,562645.13,2024-01-19,Successful,Bill Payment - EKEDC
+TXN-0225,Adaeze Adeleke,09038034521,adaeze.adeleke32@yahoo.com,Fixed Deposit,OGUN,Sagamu,Debit,Bank Branch,₦638,588757.03,2024-08-12,Pending,Fuel Payment
+TXN-0226,Damilola Okafor,07016513778,damilolaokafor@outlook.com,Fixed Deposit,abuja,Asokoro,Debit,ATM,₦71261,146646.33,2024-12-15,Pending,Supermarket Purchase
+TXN-0227,Amina Adeyemi,08020092080,amina.adeyemi27@yahoo.com,Current,Enugu,Oji River,Debit,Mobile App,₦1896,570520.97,2024-08-26,Successful,Airtime Purchase - MTN
+TXN-0228,Biodun Adeyemi,08137623031,biodun.adeyemi3@gmail.com,Fixed Deposit,rivers,Eleme,Debit,POS,₦3513,423560.75,2024-11-26,Successful,POS Payment - Chicken Republic
+TXN-0229,Aisha Musa,08025095283,aisha_musa@yahoo.com,Savings,Abuja,Gwarinpa,Debit,POS,₦18346,185240.67,2024-10-12,Successful,Rent Payment
+TXN-0230,Obinna Okonkwo,08051959083,obinnaokonkwo@gmail.com,Fixed Deposit,Anambra,Nnewi,Credit,Bank Branch,₦139874,872562.22,2024-11-26,Successful,Freelance Income
+TXN-0231,Tosin Bello,09036672474,tosin_bello@hotmail.com,Fixed Deposit,ABUJA,Maitama,Transfer,ATM,₦754,128416.17,2024-05-30,Successful,Transfer to Musa Aliyu
+TXN-0232,Damilola Salami,09034511320,damilola_salami@yahoo.com,Fixed Deposit,ABUJA,Gwarinpa,Transfer,Bank Branch,₦10808,378133.53,2024-08-07,Pending,Interbank Transfer - Access Bank
+TXN-0233,Chidi Adeyemi,07061233035,chidi_adeyemi@gmail.com,Fixed Deposit,OYO,Oyo,Credit,USSD,₦40530,513279.57,2024-09-16,Successful,Dividend Payment
+TXN-0234,Halima Garba,08089343438,halimagarba45@hotmail.com,Savings,Ogun,Ota,Transfer,Mobile App,₦16336,524970.2,2024-10-09,Pending,Transfer to Obinna Obi - Opay
+TXN-0235,Blessing Musa,08076725265,blessing_musa81@yahoo.com,Fixed Deposit,Abuja,Wuse,Transfer,USSD,₦40068,98908.06,2024-01-07,Failed,Transfer to Funke Musa
+TXN-0236,Biodun Usman,07062510847,biodun.usman72@yahoo.com,Current,Enugu,Agbani,Debit,Mobile App,₦71521,444456.42,2024-10-31,Successful,Supermarket Purchase
+TXN-0237,Yusuf Nwosu,09075237600,yusuf_nwosu@gmail.com,Savings,anambra,Awka,Credit,Mobile App,₦4626,438785.23,2024-11-28,Reversed,Refund - Jumia
+TXN-0238,Emeka Obi,08062860378,emekaobi73@hotmail.com,Fixed Deposit,enugu,Awgu,Transfer,USSD,₦50976,34790.76,2024-08-07,Successful,Transfer to Blessing Lawal - Opay
+TXN-0239,Chukwuemeka Abubakar,09052124414,chukwuemeka_abubakar79@yahoo.com,Current,abuja,Wuse,Debit,ATM,₦14051,630108.78,2024-07-14,Pending,Bill Payment - EKEDC
+TXN-0240,Obinna Aliyu,08152570777,obinna.aliyu17@yahoo.com,Fixed Deposit,ENUGU,Awgu,Credit,Bank Branch,₦2399,245165.84,2024-08-11,Successful,Refund - Jumia
+TXN-0241,Blessing Adeleke,08135442951,blessingadeleke@outlook.com,Current,Rivers,Ikwerre,Transfer,USSD,₦805,97204.63,2024-07-14,Successful,Transfer to Yakubu Usman
+TXN-0242,Halima Musa,09033699198,halima_musa33@gmail.com,Current,KADUNA,Kafanchan,Transfer,POS,₦13333,442446.13,2024-11-09,Successful,Interbank Transfer - Access Bank
+TXN-0243,Babatunde Aliyu,09096254880,babatunde_aliyu57@outlook.com,Fixed Deposit,LAGOS,Lekki,Transfer,Bank Branch,₦14379,763574.87,2024-03-11,Failed,NIP Transfer to Damilola Musa
+TXN-0244,Chukwuemeka Okonkwo,08061849848,chukwuemekaokonkwo@yahoo.com,Savings,KANO,Gwale,Debit,USSD,₦10331,692335.89,2024-01-08,Successful,POS Payment - Chicken Republic
+TXN-0245,Yusuf Musa,09029844758,yusufmusa@yahoo.com,Savings,RIVERS,Obio-Akpor,Transfer,Mobile App,₦4247,691606.24,2024-10-07,Reversed,Transfer to Musa Adeleke - Opay
+TXN-0246,Aisha Mohammed,08156410916,aisha_mohammed@gmail.com,Fixed Deposit,oyo,Oyo,Credit,Mobile App,₦11041,249441.51,2024-09-02,Failed,Transfer from Yakubu Adekunle
+TXN-0247,Nkechi Suleiman,07011680042,nkechi.suleiman@gmail.com,Current,RIVERS,Oyigbo,Credit,Mobile App,₦95817,74418.02,2024-09-14,Successful,Business Revenue
+TXN-0248,Tosin Nwofor,08105982313,tosin_nwofor@gmail.com,Fixed Deposit,Kaduna,Kaduna South,Credit,Mobile App,₦16689,459529.34,2024-03-03,Successful,Business Revenue
+TXN-0249,Nkechi Adeleke,08135987384,nkechiadeleke@gmail.com,Current,anambra,Ogidi,Transfer,ATM,₦181416,152855.94,2024-11-12,Pending,Interbank Transfer - Access Bank
+TXN-0250,Chioma Garba,08138082297,chiomagarba@outlook.com,Current,ANAMBRA,Awka,Transfer,USSD,₦1574,306954.1,2024-09-30,Pending,Transfer to Nkechi Eze - Opay
+TXN-0251,Yakubu Ogundipe,09056884428,yakubu_ogundipe64@yahoo.com,Current,Rivers,Obio-Akpor,Debit,POS,₦11615,250417.16,2024-02-13,Successful,Airtime Purchase - MTN
+TXN-0252,Obinna Musa,08056671045,obinnamusa@yahoo.com,Current,RIVERS,Obio-Akpor,Credit,POS,₦14923,739697.1,2024-01-18,Pending,Business Revenue
+TXN-0253,Amina Salami,08025338219,aminasalami@gmail.com,Savings,kaduna,Kaduna South,Transfer,Bank Branch,₦8687,111284.5,2024-05-26,Successful,NIP Transfer to Nkechi Adeyemi
+TXN-0254,Blessing Lawal,07036648494,blessinglawal@yahoo.com,Current,Kaduna,Kaduna South,Debit,POS,₦444332,328649.16,2024-06-16,Successful,School Fees Payment
+TXN-0255,Halima Ibrahim,08078626124,halima.ibrahim@outlook.com,Savings,ABUJA,Garki,Debit,POS,₦43215,748480.61,2024-05-19,Pending,School Fees Payment
+TXN-0256,Biodun Usman,09055427644,biodun_usman@gmail.com,Savings,KADUNA,Kaduna North,Debit,USSD,₦182771,187687.59,2024-12-08,Pending,Bill Payment - EKEDC
+TXN-0257,Obinna Abubakar,08065281196,obinnaabubakar@hotmail.com,Fixed Deposit,abuja,Garki,Transfer,Mobile App,₦39176,704226.14,2024-12-14,Successful,NIP Transfer to Nneka Bello
+TXN-0258,Sade Aliyu,08023784548,sadealiyu31@hotmail.com,Current,Anambra,Ogidi,Debit,ATM,₦2524,760743.28,2024-11-05,Pending,Supermarket Purchase
+TXN-0259,Tosin Ibrahim,08081385448,tosin_ibrahim83@hotmail.com,Savings,ANAMBRA,Ogidi,Transfer,USSD,₦3740,193430.13,2024-04-28,Failed,Transfer to Chioma Ogundipe
+TXN-0260,Yusuf Usman,08053501542,yusuf_usman@yahoo.com,Fixed Deposit,Delta,Ughelli,Debit,ATM,₦1414,504333.23,2024-04-16,Successful,Supermarket Purchase
+TXN-0261,Adaeze Tanko,08025454099,adaezetanko@gmail.com,Savings,rivers,Ikwerre,Transfer,POS,₦4529,570869.52,2024-01-16,Failed,Transfer to Chukwuemeka Bello
+TXN-0262,Blessing Tanko,08079085878,blessing.tanko@gmail.com,Savings,Anambra,Nnewi,Credit,Bank Branch,₦301663,679019.82,2024-01-20,Pending,Business Revenue
+TXN-0263,Kemi Nwachukwu,08130945493,kemi_nwachukwu@hotmail.com,Fixed Deposit,RIVERS,Oyigbo,Credit,Bank Branch,₦122268,277349.08,2024-01-31,Successful,Loan Disbursement - GTBank
+TXN-0264,Blessing Usman,07062309549,blessingusman@outlook.com,Savings,kaduna,Zaria,Debit,Mobile App,₦213103,18328.99,2024-07-04,Reversed,Rent Payment
+TXN-0265,Babatunde Musa,08159847159,babatunde.musa@outlook.com,Current,DELTA,Agbor,Credit,POS,₦146700,135917.3,2024-03-28,Successful,Loan Disbursement - GTBank
+TXN-0266,Chinyere Okonkwo,08162730913,chinyereokonkwo@outlook.com,Current,RIVERS,Port Harcourt,Transfer,USSD,₦18283,667051.13,2024-08-27,Successful,Interbank Transfer - Access Bank
+TXN-0267,Kayode Ibrahim,08086911010,kayode_ibrahim55@gmail.com,Fixed Deposit,LAGOS,Yaba,Debit,Mobile App,₦108448,522355.14,2024-07-31,Successful,Fuel Payment
+TXN-0268,Chidi Adeyemi,08030352369,chidi_adeyemi23@yahoo.com,Fixed Deposit,ANAMBRA,Ekwulobia,Transfer,Mobile App,₦3114,72419.32,2024-05-06,Reversed,Interbank Transfer - Access Bank
+TXN-0269,Tosin Obiora,08075052541,tosin_obiora51@gmail.com,Savings,OGUN,Abeokuta,Transfer,USSD,₦25027,703691.15,2024-09-05,Failed,Transfer to Uche Garba
+TXN-0270,Babatunde Adeyemi,08158420925,babatunde.adeyemi@gmail.com,Savings,OGUN,Ilaro,Credit,Bank Branch,₦284983,872460.75,2024-06-13,Successful,Salary Credit - Lagos State Government
+TXN-0271,Nneka Adeleke,08124031960,nnekaadeleke@yahoo.com,Savings,abuja,Garki,Debit,Bank Branch,₦134684,104537.74,2024-05-28,Successful,Fuel Payment
+TXN-0272,Emeka Nwofor,08037611589,emekanwofor91@hotmail.com,Savings,delta,Sapele,Transfer,POS,₦14187,,2024-02-06,Reversed,Transfer to Oluwaseun Tanko
+TXN-0273,Chinyere Abubakar,09053861367,chinyere.abubakar@yahoo.com,Current,ANAMBRA,Ekwulobia,Debit,Bank Branch,₦17822,362492.34,2024-07-19,Successful,ATM Cash Withdrawal
+TXN-0274,Yusuf Ibrahim,09037138978,yusufibrahim21@gmail.com,Current,KADUNA,Kaduna North,Credit,ATM,₦180889,496414.02,2024-04-27,Successful,Salary Credit - Federal Civil Service
+TXN-0275,Yusuf Adebayo,09070030276,yusufadebayo@gmail.com,Fixed Deposit,OYO,Oyo,Transfer,USSD,₦4575,463314.78,2024-12-03,Pending,Transfer to Yakubu Aliyu
+TXN-0276,Rukayat Chukwu,07010308900,rukayat.chukwu@hotmail.com,Savings,Delta,Ughelli,Debit,POS,₦22635,122041.72,2024-11-14,Successful,Fuel Payment
+TXN-0277,Damilola Aliyu,08149194484,damilolaaliyu34@hotmail.com,Savings,Oyo,Saki,Debit,POS,₦1135,285876.68,2024-04-17,Successful,Bill Payment - EKEDC
+TXN-0278,Damilola Adeyemi,08106314259,damilola.adeyemi19@yahoo.com,Fixed Deposit,Kano,Fagge,Credit,Mobile App,₦3662,614417.54,2024-07-27,Successful,Freelance Income
+TXN-0279,Damilola Tanko,08067286160,damilolatanko@outlook.com,Savings,Abuja,Maitama,Credit,ATM,₦78073,387187.29,2024-12-22,Successful,Transfer from Ibrahim Musa
+TXN-0280,Emeka Mohammed,08068636638,emeka_mohammed79@gmail.com,Fixed Deposit,delta,Sapele,Transfer,POS,₦66481,604524.13,2024-01-28,Successful,Interbank Transfer - Access Bank
+TXN-0281,Chukwuemeka Lawal,09092792867,chukwuemeka.lawal@outlook.com,Current,Ogun,Ijebu-Ode,Debit,Bank Branch,₦93692,662219.32,2024-05-04,Pending,Bill Payment - EKEDC
+TXN-0282,Sade Nwosu,08058612471,sadenwosu35@hotmail.com,Fixed Deposit,delta,Sapele,Debit,ATM,₦8149,581981.9,2024-02-04,Failed,POS Payment - Chicken Republic
+TXN-0283,Chidi Musa,08031417942,chidi.musa@yahoo.com,Fixed Deposit,ogun,Ota,Credit,ATM,₦129332,183621.28,2024-02-25,Successful,Loan Disbursement - GTBank
+TXN-0284,Tosin Bello,09060577843,tosinbello@hotmail.com,Fixed Deposit,Rivers,Oyigbo,Transfer,POS,₦13522,372140.03,2024-02-28,Successful,Transfer to Chukwuemeka Bello
+TXN-0285,Oluwaseun Nwachukwu,08026561551,oluwaseun_nwachukwu@yahoo.com,Savings,Abuja,Garki,Transfer,POS,₦12269,208846.53,2024-03-29,Successful,NIP Transfer to Kemi Suleiman
+TXN-0286,Damilola Adeleke,08105702636,damilolaadeleke@yahoo.com,Fixed Deposit,Anambra,Nnewi,Transfer,USSD,₦59520,339555.16,2024-12-16,Successful,Transfer to Musa Mohammed - Opay
+TXN-0287,Blessing Aliyu,08123836942,blessingaliyu@outlook.com,Savings,DELTA,Asaba,Debit,USSD,₦1131,655975.56,2024-12-06,Successful,POS Payment - Shoprite
+TXN-0288,Emeka Nwosu,08075526758,emekanwosu12@gmail.com,Current,kano,Gwale,Debit,Bank Branch,₦7128,426911.76,2024-12-08,Reversed,School Fees Payment
+TXN-0289,Kemi Chukwu,07017597411,kemi.chukwu@gmail.com,Fixed Deposit,Ogun,Ilaro,Debit,Bank Branch,₦4544,281383.61,2024-12-03,Pending,Fuel Payment
+TXN-0290,Chioma Yusuf,08021537480,chioma_yusuf@hotmail.com,Savings,KANO,Tarauni,Debit,Bank Branch,₦17843,91354.46,2024-06-30,Successful,Bill Payment - EKEDC
+TXN-0291,Nkechi Lawal,09096911537,nkechi_lawal48@gmail.com,Current,enugu,Agbani,Transfer,Bank Branch,₦17656,522683.43,2024-08-31,Successful,NIP Transfer to Biodun Okafor
+TXN-0292,Tosin Obiora,09068723974,tosinobiora@outlook.com,Fixed Deposit,ENUGU,Oji River,Transfer,ATM,₦11565,102957.38,2024-05-05,Failed,Interbank Transfer - Access Bank
+TXN-0293,Oluwaseun Adeyemi,09059868360,oluwaseun.adeyemi81@yahoo.com,Fixed Deposit,Abuja,Wuse,Transfer,USSD,₦15044,131138.66,2024-09-08,Successful,Interbank Transfer - Access Bank
+TXN-0294,Kemi Salami,08084536818,kemi_salami@gmail.com,Savings,abuja,Asokoro,Debit,POS,₦6650,506537.91,2024-08-21,Successful,Airtime Purchase - MTN
+TXN-0295,Ifeanyi Ogundipe,08103352288,ifeanyi_ogundipe18@hotmail.com,Current,Delta,Agbor,Transfer,ATM,₦189785,531643.92,2024-04-24,Pending,Transfer to Ibrahim Bello - Opay
+TXN-0296,Biodun Nwosu,09067528042,biodun_nwosu53@yahoo.com,Current,Anambra,Awka,Debit,USSD,₦6134,466528.4,2024-02-04,Successful,POS Payment - Shoprite
+TXN-0297,Fatima Ogundipe,09021356989,fatima.ogundipe@outlook.com,Current,Lagos,Yaba,Transfer,Mobile App,₦115320,679943.17,2024-05-24,Successful,Interbank Transfer - Access Bank
+TXN-0298,Emeka Aliyu,08137628476,emeka.aliyu@outlook.com,Fixed Deposit,RIVERS,Ikwerre,Credit,ATM,₦17560,115229.82,2024-06-26,Successful,Dividend Payment
+TXN-0299,Nkechi Ibrahim,08060230924,nkechi_ibrahim@yahoo.com,Savings,KANO,Gwale,Debit,POS,₦15042,253871.01,2024-07-28,Failed,ATM Cash Withdrawal
+TXN-0300,Nkechi Nwofor,08051086046,nkechinwofor@hotmail.com,Savings,DELTA,Warri,Transfer,POS,₦1273,466187.74,2024-08-09,Successful,Transfer to Chidi Bello
+TXN-0301,Halima Garba,09074010249,halima.garba23@gmail.com,Fixed Deposit,oyo,Ogbomosho,Credit,Bank Branch,₦706,559028.43,2024-07-22,Pending,Dividend Payment
+TXN-0302,Zainab Ibrahim,09054475094,zainabibrahim45@hotmail.com,Current,kano,Dala,Debit,Mobile App,₦4860,107288.42,2024-10-14,Failed,Airtime Purchase - MTN
+TXN-0303,Yakubu Ibrahim,08138037595,yakubuibrahim@yahoo.com,Savings,Delta,Agbor,Transfer,Mobile App,₦19264,603222.08,2024-10-21,Pending,Interbank Transfer - Access Bank
+TXN-0304,Chukwuemeka Abubakar,08139646237,chukwuemekaabubakar46@outlook.com,Savings,RIVERS,Oyigbo,Transfer,USSD,₦5686,627300.63,2024-12-25,Failed,NIP Transfer to Yakubu Obi
+TXN-0305,Rukayat Musa,08069200155,rukayat_musa6@outlook.com,Savings,OGUN,Sagamu,Credit,POS,₦65235,104686.96,2024-06-16,Successful,Refund - Jumia
+TXN-0306,Uche Tanko,09050117558,uche_tanko52@yahoo.com,Current,kaduna,Kaduna South,Debit,USSD,₦130447,293724.73,2024-07-15,Successful,Fuel Payment
+TXN-0307,Tunde Okonkwo,,tunde_okonkwo@yahoo.com,Fixed Deposit,kano,Tarauni,Debit,ATM,₦15276,786525.11,2024-01-26,Successful,ATM Cash Withdrawal
+TXN-0308,Bayo Garba,08150407450,bayogarba@hotmail.com,Savings,delta,Ughelli,Debit,Bank Branch,₦8874,309807.97,2024-03-26,Successful,Bill Payment - EKEDC
+TXN-0309,Emeka Ogundipe,08058402069,emeka_ogundipe@outlook.com,Fixed Deposit,LAGOS,Surulere,Credit,Bank Branch,₦4321,503686.99,2024-02-08,Reversed,Dividend Payment
+TXN-0310,Halima Okafor,09054157592,halima.okafor60@gmail.com,Current,Lagos,Lekki,Transfer,Mobile App,₦11975,773876.52,2024-01-26,Failed,NIP Transfer to Biodun Salami
+TXN-0311,Uche Nwosu,08066152233,uche_nwosu23@yahoo.com,Current,kano,Dala,Debit,USSD,₦10004,233044.93,2024-09-09,Successful,Supermarket Purchase
+TXN-0312,Adaeze Lawal,08060367999,adaezelawal@hotmail.com,Fixed Deposit,Oyo,Saki,Debit,POS,₦28344,717824.46,2024-11-11,Failed,Supermarket Purchase
+TXN-0313,Sade Mohammed,07014514299,sademohammed43@hotmail.com,Current,Rivers,Ikwerre,Transfer,Mobile App,₦1565,172432.99,2024-06-10,Failed,Interbank Transfer - Access Bank
+TXN-0314,Aisha Garba,08149559291,aisha_garba@hotmail.com,Current,RIVERS,Ikwerre,Debit,ATM,₦4715,2530.01,2024-09-17,Successful,Bill Payment - EKEDC
+TXN-0315,Nneka Salami,08086185518,nnekasalami52@yahoo.com,Savings,enugu,Agbani,Credit,ATM,₦4265,406198.02,2024-01-25,Successful,Refund - Jumia
+TXN-0316,Blessing Obi,08085159395,blessingobi21@hotmail.com,Fixed Deposit,lagos,Surulere,Credit,POS,₦63779,623958.04,2024-09-01,Successful,Refund - Jumia
+TXN-0317,Damilola Adeyemi,08034696041,damilola_adeyemi35@yahoo.com,Savings,KADUNA,Igabi,Debit,ATM,₦264356,572283.19,2024-05-12,Successful,POS Payment - Shoprite
+TXN-0318,Ibrahim Abubakar,08141342023,ibrahimabubakar@hotmail.com,Fixed Deposit,LAGOS,Ikeja,Debit,USSD,₦3825,36898.02,2024-01-05,Successful,Airtime Purchase - MTN
+TXN-0319,Musa Obi,08087241560,musaobi80@yahoo.com,Savings,Ogun,Sagamu,Debit,USSD,₦8183,723165.11,2024-05-21,Successful,Bill Payment - EKEDC
+TXN-0320,Sade Adekunle,09038548346,sade_adekunle96@gmail.com,Current,KANO,Fagge,Debit,USSD,₦14125,476100.12,2024-01-24,Reversed,Bill Payment - EKEDC
+TXN-0321,Chioma Lawal,09058997629,chiomalawal90@gmail.com,Fixed Deposit,Anambra,Ogidi,Credit,ATM,₦3009,53641.42,2024-10-24,Failed,Salary Credit - NNPC
+TXN-0322,Aisha Usman,07062807813,aisha_usman65@outlook.com,Savings,lagos,Ojodu,Debit,POS,₦973,444978.63,2024-08-10,Successful,Supermarket Purchase
+TXN-0323,Oluwaseun Obi,09058500684,oluwaseunobi@gmail.com,Fixed Deposit,DELTA,Sapele,Debit,ATM,₦71920,456005.49,2024-05-14,Successful,ATM Cash Withdrawal
+TXN-0324,Nneka Mohammed,08055641376,nneka_mohammed32@hotmail.com,Fixed Deposit,DELTA,Warri,Debit,Bank Branch,₦3237,369380.54,2024-02-03,Successful,POS Payment - Chicken Republic
+TXN-0325,Chioma Okafor,07011787308,chioma_okafor71@outlook.com,Fixed Deposit,OYO,Iseyin,Debit,Bank Branch,₦1590,614949.49,2024-06-24,Successful,Bill Payment - EKEDC
+TXN-0326,Kayode Adekunle,08143749750,kayode.adekunle@gmail.com,Savings,Rivers,Ikwerre,Transfer,USSD,₦4102,759063.9,2024-02-23,Successful,Interbank Transfer - Access Bank
+TXN-0327,Ifeanyi Ibrahim,09055927297,ifeanyi.ibrahim66@hotmail.com,Savings,ENUGU,Enugu,Transfer,Mobile App,₦59667,416829.57,2024-07-12,Successful,Transfer to Emeka Yusuf - Opay
+TXN-0328,Nneka Nwosu,09094640204,nneka_nwosu6@gmail.com,Savings,DELTA,Asaba,Transfer,POS,₦56823,651644.09,2024-04-21,Successful,Transfer to Blessing Usman
+TXN-0329,Funke Obi,08162598597,funke.obi@hotmail.com,Current,Enugu,Nsukka,Transfer,USSD,₦17076,92851.4,2024-05-25,Reversed,Transfer to Obinna Okonkwo
+TXN-0330,Oluwaseun Tanko,09078269545,oluwaseun_tanko@hotmail.com,Savings,KANO,Nasarawa,Debit,USSD,₦4827,220534.32,2024-12-05,Successful,POS Payment - Shoprite
+TXN-0331,Oluwaseun Obi,08053780746,oluwaseunobi@outlook.com,Fixed Deposit,lagos,Ojodu,Transfer,Mobile App,₦7930,711576.29,2024-02-19,Successful,NIP Transfer to Adaeze Abubakar
+TXN-0332,Chinyere Salami,09023604402,chinyere_salami@yahoo.com,Current,kano,Tarauni,Transfer,POS,₦181254,283794.06,2024-06-13,Pending,Transfer to Yakubu Obi - Opay
+TXN-0333,Yakubu Mohammed,08133490027,yakubu_mohammed77@outlook.com,Fixed Deposit,lagos,Ojodu,Transfer,Mobile App,₦3180,403401.01,2024-01-24,Successful,Interbank Transfer - Access Bank
+TXN-0334,Funke Nwachukwu,08029313803,funke_nwachukwu@yahoo.com,Fixed Deposit,DELTA,Sapele,Debit,USSD,₦18716,724065.64,2024-03-13,Successful,Fuel Payment
+TXN-0335,Chioma Suleiman,09091703945,chiomasuleiman4@outlook.com,Fixed Deposit,Oyo,Saki,Transfer,POS,₦40385,668434.04,2024-12-05,Failed,Transfer to Damilola Nwachukwu - Opay
+TXN-0336,Babatunde Adeleke,08087693262,babatundeadeleke@gmail.com,Current,ABUJA,Asokoro,Credit,Mobile App,₦39388,532957.5,2024-09-09,Successful,Business Revenue
+TXN-0337,Adaeze Adebayo,09023670306,adaeze_adebayo@outlook.com,Fixed Deposit,Oyo,Oyo,Credit,USSD,₦14673,189896.98,2024-05-27,Pending,Business Revenue
+TXN-0338,Damilola Salami,09022285411,damilola_salami52@outlook.com,Fixed Deposit,kano,Gwale,Transfer,USSD,₦3419,28323.97,2024-07-16,Successful,NIP Transfer to Babatunde Eze
+TXN-0339,Yusuf Suleiman,09027731006,yusuf.suleiman@outlook.com,Savings,KANO,Dala,Credit,USSD,₦19665,427448.29,2024-10-08,Successful,Loan Disbursement - GTBank
+TXN-0340,Chioma Mohammed,07038327541,chiomamohammed87@outlook.com,Fixed Deposit,Kano,Gwale,Credit,USSD,₦789,759194.89,2024-04-24,Successful,Refund - Jumia
+TXN-0341,Amina Adeleke,09066451528,amina.adeleke@yahoo.com,Current,Lagos,Victoria Island,Transfer,POS,₦118628,412629.15,2024-08-23,Reversed,Transfer to Damilola Musa
+TXN-0342,Kayode Mohammed,07030972839,kayodemohammed29@hotmail.com,Current,Lagos,Yaba,Transfer,Bank Branch,₦6911,371456.07,2024-10-19,Failed,Interbank Transfer - Access Bank
+TXN-0343,Damilola Tanko,07037982497,damilola_tanko14@gmail.com,Current,KANO,Dala,Debit,POS,₦213570,89442.0,2024-09-16,Failed,Rent Payment
+TXN-0344,Halima Yusuf,08067720485,halimayusuf88@yahoo.com,Fixed Deposit,ANAMBRA,Onitsha,Credit,ATM,₦2385,383115.29,2024-04-19,Successful,Business Revenue
+TXN-0345,Chidi Obiora,09032064712,chidi.obiora95@gmail.com,Savings,ABUJA,Asokoro,Debit,POS,₦1474,503735.94,2024-08-31,Successful,Supermarket Purchase
+TXN-0346,Blessing Adekunle,08130469174,blessing.adekunle5@outlook.com,Current,ENUGU,Agbani,Debit,Mobile App,₦10247,378474.21,2024-02-07,Failed,POS Payment - Chicken Republic
+TXN-0347,Tunde Tanko,08102190160,tunde.tanko@yahoo.com,Current,OGUN,Ilaro,Transfer,USSD,₦108997,58714.59,2024-10-01,Successful,Transfer to Oluwaseun Ibrahim
+TXN-0348,Amina Bello,08087863723,amina_bello11@outlook.com,Current,Enugu,Nsukka,Transfer,POS,₦4957,17934.67,2024-07-21,Successful,Interbank Transfer - Access Bank
+TXN-0349,Tunde Suleiman,07019058065,tunde.suleiman74@outlook.com,Fixed Deposit,ogun,Sagamu,Credit,USSD,₦19725,522030.47,2024-02-12,Successful,Business Revenue
+TXN-0350,Chidi Adekunle,09022542379,chidi_adekunle88@yahoo.com,Fixed Deposit,abuja,Maitama,Transfer,ATM,₦53934,192202.16,2024-05-16,Successful,Transfer to Ngozi Adebayo - Opay
+TXN-0351,Blessing Adeleke,08140814225,blessing_adeleke63@hotmail.com,Fixed Deposit,RIVERS,Obio-Akpor,Debit,Mobile App,₦45797,364333.48,2024-11-23,Successful,Bill Payment - EKEDC
+TXN-0352,Yusuf Nwosu,09032466093,yusufnwosu15@yahoo.com,Current,Enugu,Enugu,Credit,ATM,₦12993,232697.04,2024-03-23,Successful,Dividend Payment
+TXN-0353,Aisha Lawal,09026022915,aisha_lawal62@hotmail.com,Savings,OYO,Oyo,Credit,Mobile App,₦7675,720073.09,2024-05-19,Successful,Dividend Payment
+TXN-0354,Babatunde Okonkwo,09061592888,babatunde.okonkwo@hotmail.com,Savings,lagos,Ojodu,Transfer,USSD,₦148700,275575.22,2024-02-13,Successful,Transfer to Obinna Okonkwo
+TXN-0355,Uche Okafor,08084930854,uche.okafor48@yahoo.com,Savings,lagos,Victoria Island,Credit,Mobile App,₦10200,44185.97,2024-10-07,Successful,Dividend Payment
+TXN-0356,Tosin Musa,08137781149,tosin.musa@outlook.com,Savings,abuja,Gwarinpa,Credit,ATM,₦38784,303085.77,2024-12-18,Failed,Salary Credit - Federal Civil Service
+TXN-0357,Sade Lawal,08085850858,sadelawal@gmail.com,Current,enugu,Enugu,Debit,USSD,₦8587,98321.33,2024-05-07,Successful,Airtime Purchase - MTN
+TXN-0358,Chinyere Lawal,08165629665,chinyerelawal@gmail.com,Current,lagos,Lekki,Credit,Bank Branch,₦9056,542045.29,2024-11-21,Successful,Transfer from Chidi Garba
+TXN-0359,Kayode Obi,08164694545,kayode_obi83@yahoo.com,Current,anambra,Onitsha,Debit,Bank Branch,₦7176,314016.75,2024-10-18,Successful,Airtime Purchase - MTN
+TXN-0360,Kemi Suleiman,08066683606,kemisuleiman@gmail.com,Current,ENUGU,Enugu,Credit,USSD,₦2166,669421.01,2024-04-21,Failed,Dividend Payment
+TXN-0361,Emeka Salami,08059021792,emeka.salami16@yahoo.com,Current,Kaduna,Zaria,Credit,USSD,₦15914,267240.37,2024-02-08,Pending,Salary Credit - Lagos State Government
+TXN-0362,Emeka Yusuf,08074573640,emeka_yusuf@outlook.com,Current,Enugu,Enugu,Transfer,Bank Branch,₦7711,618201.0,2024-05-06,Successful,Transfer to Nkechi Adeleke
+TXN-0363,Aisha Chukwu,09063038709,aisha_chukwu7@hotmail.com,Savings,OGUN,Sagamu,Credit,USSD,₦760,667377.36,2024-03-27,Pending,Transfer from Damilola Mohammed
+TXN-0364,Nneka Suleiman,09026267387,nnekasuleiman64@yahoo.com,Savings,OGUN,Abeokuta,Debit,USSD,₦849,466678.27,2024-08-09,Failed,ATM Cash Withdrawal
+TXN-0365,Adaeze Nwosu,07018175644,adaeze_nwosu@outlook.com,Current,KANO,Tarauni,Credit,USSD,₦5216,151828.1,2024-12-19,Reversed,Business Revenue
+TXN-0366,Uche Musa,09068083277,uche_musa@hotmail.com,Fixed Deposit,RIVERS,Oyigbo,Transfer,POS,₦61098,59555.29,2024-04-02,Failed,Transfer to Biodun Obi
+TXN-0367,Ifeanyi Usman,09034198436,ifeanyi_usman@outlook.com,Current,kaduna,Kafanchan,Debit,Bank Branch,₦17504,63570.27,2024-01-28,Successful,Rent Payment
+TXN-0368,Tunde Nwachukwu,08069530609,tunde_nwachukwu74@hotmail.com,Savings,DELTA,Ughelli,Transfer,ATM,₦71522,89640.5,2024-11-20,Pending,Transfer to Adaeze Bello
+TXN-0369,Blessing Adeyemi,09058354565,blessing_adeyemi@hotmail.com,Fixed Deposit,OGUN,Ota,Debit,POS,₦12654,603207.04,2024-01-28,Successful,Rent Payment
+TXN-0370,Kemi Tanko,09062749879,kemi.tanko@gmail.com,Savings,Ogun,Sagamu,Transfer,USSD,₦8870,241956.38,2024-09-12,Failed,Interbank Transfer - Access Bank
+TXN-0371,Chukwuemeka Okonkwo,07063366247,chukwuemeka_okonkwo51@hotmail.com,Current,LAGOS,Surulere,Debit,POS,₦28414,610296.45,2024-01-07,Successful,Bill Payment - EKEDC
+TXN-0372,Emeka Yusuf,08143596735,emekayusuf@yahoo.com,Fixed Deposit,kaduna,Kafanchan,Transfer,POS,₦14434,444236.5,2024-09-03,Reversed,NIP Transfer to Nkechi Ogundipe
+TXN-0373,Blessing Mohammed,07037997426,blessing_mohammed69@gmail.com,Savings,ABUJA,Maitama,Credit,ATM,₦478363,812444.63,2024-10-04,Reversed,Transfer from Tunde Adeleke
+TXN-0374,Amina Adebayo,08121031234,aminaadebayo@hotmail.com,Savings,KADUNA,Zaria,Transfer,Mobile App,₦14818,,2024-02-16,Pending,Interbank Transfer - Access Bank
+TXN-0375,Funke Chukwu,09060414181,funkechukwu@yahoo.com,Savings,ogun,Abeokuta,Transfer,Mobile App,₦5149,53240.59,2024-07-12,Pending,Transfer to Funke Obiora - Opay
+TXN-0376,Babatunde Adekunle,07060751366,babatundeadekunle23@gmail.com,Current,lagos,Yaba,Transfer,Mobile App,₦4184,717097.06,2024-08-06,Failed,Interbank Transfer - Access Bank
+TXN-0377,Biodun Adekunle,08073472410,biodun_adekunle68@hotmail.com,Current,delta,Sapele,Debit,POS,₦19230,231168.29,2024-10-22,Reversed,POS Payment - Shoprite
+TXN-0378,Adaeze Eze,08027730515,adaeze.eze25@gmail.com,Current,kaduna,Kaduna South,Transfer,ATM,₦15045,216736.62,2024-10-04,Successful,Transfer to Nneka Nwosu
+TXN-0379,Chidi Musa,08029148153,chidi.musa12@hotmail.com,Savings,oyo,Oyo,Transfer,Bank Branch,₦3004,77742.14,2024-12-21,Reversed,Interbank Transfer - Access Bank
+TXN-0380,Uche Salami,09079619434,uche_salami23@gmail.com,Current,kaduna,Zaria,Debit,Bank Branch,₦2330,752334.57,2024-11-16,Pending,Fuel Payment
+TXN-0381,Chidi Chukwu,08120759130,chidi.chukwu85@outlook.com,Fixed Deposit,Enugu,Nsukka,Debit,Bank Branch,₦40097,264951.64,2024-02-19,Successful,Bill Payment - EKEDC
+TXN-0382,Ibrahim Mohammed,08157406282,ibrahimmohammed@hotmail.com,Fixed Deposit,Kano,Nasarawa,Credit,Bank Branch,₦1930,737124.82,2024-03-17,Pending,Refund - Jumia
+TXN-0383,Nneka Ibrahim,08085881890,nneka_ibrahim21@gmail.com,Fixed Deposit,enugu,Oji River,Transfer,Bank Branch,₦18260,745293.55,2024-03-16,Failed,Transfer to Kayode Salami
+TXN-0384,Bayo Okonkwo,08140720199,bayo.okonkwo@yahoo.com,Current,Ogun,Abeokuta,Transfer,Bank Branch,₦3581,445004.43,2024-01-29,Reversed,NIP Transfer to Aisha Yusuf
+TXN-0385,Rukayat Suleiman,09062532869,rukayatsuleiman44@gmail.com,Savings,oyo,Ogbomosho,Credit,USSD,₦181445,680809.0,2024-03-21,Pending,Transfer from Nneka Suleiman
+TXN-0386,Segun Okonkwo,09098995899,segun_okonkwo35@outlook.com,Current,ABUJA,Maitama,Debit,Bank Branch,₦8325,569248.85,2024-10-11,Reversed,Airtime Purchase - MTN
+TXN-0387,Damilola Yusuf,08062493502,damilola_yusuf@hotmail.com,Fixed Deposit,RIVERS,Oyigbo,Credit,ATM,₦4441,104902.25,2024-08-19,Successful,Freelance Income
+TXN-0388,Chukwuemeka Salami,08128198443,chukwuemekasalami38@hotmail.com,Current,OGUN,Ijebu-Ode,Credit,POS,₦5146,642354.14,2024-06-16,Successful,Loan Disbursement - GTBank
+TXN-0389,Chinyere Aliyu,08156565718,chinyere.aliyu55@gmail.com,Fixed Deposit,LAGOS,Ikeja,Transfer,Mobile App,₦19655,154668.2,2024-10-23,Pending,NIP Transfer to Chidi Usman
+TXN-0390,Adaeze Aliyu,08084821812,adaeze_aliyu29@hotmail.com,Savings,Enugu,Enugu,Debit,USSD,₦1807,,2024-12-05,Failed,POS Payment - Chicken Republic
+TXN-0391,Yusuf Obiora,08061743200,yusufobiora@hotmail.com,Current,delta,Ughelli,Transfer,USSD,₦41907,693131.03,2024-12-04,Failed,Interbank Transfer - Access Bank
+TXN-0392,Damilola Chukwu,08072453630,damilola.chukwu6@hotmail.com,Savings,RIVERS,Eleme,Credit,Mobile App,₦309768,485614.15,2024-02-20,Successful,Business Revenue
+TXN-0393,Ibrahim Eze,09079976602,ibrahim.eze@outlook.com,Fixed Deposit,KANO,Fagge,Credit,Bank Branch,₦9413,160298.3,2024-09-23,Successful,Business Revenue
+TXN-0394,Segun Ogundipe,08065061380,segunogundipe@hotmail.com,Savings,rivers,Oyigbo,Credit,POS,₦78086,781572.02,2024-06-03,Successful,Dividend Payment
+TXN-0395,Halima Ogundipe,08021222704,halima.ogundipe@outlook.com,Fixed Deposit,RIVERS,Eleme,Credit,Bank Branch,₦4315,441375.02,2024-07-07,Pending,Loan Disbursement - GTBank
+TXN-0396,Halima Nwosu,08150602028,halima_nwosu41@yahoo.com,Savings,Kaduna,Zaria,Transfer,Mobile App,₦76426,19996.19,2024-02-21,Successful,Transfer to Aisha Adeyemi
+TXN-0397,Adaeze Obi,09062083680,adaeze_obi@gmail.com,Savings,Delta,Asaba,Debit,POS,₦8916,161582.85,2024-11-28,Reversed,Fuel Payment
+TXN-0398,Chioma Suleiman,08072310181,chiomasuleiman73@hotmail.com,Savings,Anambra,Nnewi,Credit,Bank Branch,₦4307,336258.15,2024-06-16,Pending,Dividend Payment
+TXN-0399,Biodun Salami,09031009660,biodun.salami92@hotmail.com,Current,Abuja,Gwarinpa,Credit,USSD,₦17811,86185.69,2024-02-29,Pending,Loan Disbursement - GTBank
+TXN-0400,Yakubu Musa,07035431794,yakubu_musa@hotmail.com,Fixed Deposit,Lagos,Surulere,Transfer,ATM,₦45291,606509.93,2024-12-06,Successful,NIP Transfer to Tosin Bello
+TXN-0401,Zainab Bello,08060199867,zainab_bello39@yahoo.com,Fixed Deposit,lagos,Surulere,Credit,POS,₦5134,530434.5,2024-08-26,Successful,Transfer from Rukayat Mohammed
+TXN-0402,Adaeze Mohammed,08107580109,adaezemohammed38@gmail.com,Savings,kano,Nasarawa,Transfer,POS,₦3905,123058.24,2024-07-30,Failed,Transfer to Obinna Obiora
+TXN-0403,Zainab Obi,09078929718,zainabobi@outlook.com,Fixed Deposit,delta,Agbor,Credit,Bank Branch,₦1319,620293.38,2024-09-21,Failed,Refund - Jumia
+TXN-0404,Amina Salami,09038485972,aminasalami@yahoo.com,Fixed Deposit,Rivers,Eleme,Credit,ATM,₦7979,54245.32,2024-04-05,Reversed,Business Revenue
+TXN-0405,Segun Ibrahim,08139618532,segunibrahim37@hotmail.com,Current,DELTA,Agbor,Credit,POS,₦114057,298607.83,2024-07-14,Successful,Salary Credit - MTN Nigeria
+TXN-0406,Nkechi Abubakar,08162884898,nkechi_abubakar@gmail.com,Current,Abuja,Asokoro,Credit,Bank Branch,₦9642,212769.96,2024-12-02,Failed,Freelance Income
+TXN-0407,Amina Ogundipe,07035595224,amina.ogundipe@hotmail.com,Current,KANO,Fagge,Transfer,ATM,₦4442,309891.21,2024-01-07,Successful,Interbank Transfer - Access Bank
+TXN-0408,Kayode Garba,08024181888,kayodegarba6@outlook.com,Current,oyo,Ogbomosho,Transfer,POS,₦902,29282.05,2024-03-07,Reversed,NIP Transfer to Nneka Lawal
+TXN-0409,Bayo Okonkwo,07012185113,bayookonkwo98@hotmail.com,Savings,enugu,Agbani,Debit,ATM,₦17794,676148.83,2024-11-14,Successful,School Fees Payment
+TXN-0410,Oluwaseun Lawal,08155560870,oluwaseun.lawal28@outlook.com,Savings,rivers,Obio-Akpor,Credit,USSD,₦10924,798013.01,2024-01-24,Successful,Freelance Income
+TXN-0411,Tunde Nwofor,08164192278,tundenwofor61@gmail.com,Savings,ANAMBRA,Nnewi,Transfer,ATM,₦4964,605366.48,2024-04-23,Successful,Interbank Transfer - Access Bank
+TXN-0412,Chukwuemeka Bello,08156625106,chukwuemeka_bello@hotmail.com,Current,ENUGU,Awgu,Debit,USSD,₦36293,374625.29,2024-08-17,Successful,Rent Payment
+TXN-0413,Obinna Ogundipe,08057835363,obinna.ogundipe88@outlook.com,Fixed Deposit,ENUGU,Enugu,Debit,POS,₦80519,32901.24,2024-07-08,Successful,Supermarket Purchase
+TXN-0414,Obinna Okonkwo,08169088765,obinna.okonkwo38@yahoo.com,Current,Lagos,Surulere,Transfer,Mobile App,₦3647,463758.36,2024-03-23,Reversed,NIP Transfer to Nneka Yusuf
+TXN-0415,Babatunde Chukwu,09028156707,babatunde_chukwu18@outlook.com,Current,Abuja,Garki,Transfer,USSD,₦17351,431409.08,2024-08-29,Successful,Interbank Transfer - Access Bank
+TXN-0416,Aisha Usman,09028937415,aisha.usman@outlook.com,Current,lagos,Ojodu,Debit,Bank Branch,₦4113,132008.24,2024-07-27,Reversed,POS Payment - Chicken Republic
+TXN-0417,Yakubu Nwofor,08144465676,yakubu_nwofor37@yahoo.com,Fixed Deposit,DELTA,Agbor,Debit,Mobile App,₦9751,251550.37,2024-02-10,Successful,POS Payment - Shoprite
+TXN-0418,Uche Adekunle,08071941906,uche.adekunle52@outlook.com,Savings,oyo,Ibadan,Transfer,POS,₦7467,221087.46,2024-05-26,Reversed,Interbank Transfer - Access Bank
+TXN-0419,Adaeze Okonkwo,08130479638,adaeze.okonkwo@hotmail.com,Current,OGUN,Ilaro,Transfer,USSD,₦70362,530756.38,2024-10-13,Reversed,Interbank Transfer - Access Bank
+TXN-0420,Zainab Musa,08165019294,zainabmusa@yahoo.com,Fixed Deposit,OGUN,Ijebu-Ode,Debit,ATM,₦11412,543685.78,2024-02-23,Successful,Fuel Payment
+TXN-0421,Ifeanyi Obi,08078683518,ifeanyi_obi@hotmail.com,Current,ABUJA,Asokoro,Debit,USSD,₦2141,317668.17,2024-11-05,Failed,Bill Payment - EKEDC
+TXN-0422,Oluwaseun Lawal,08101436760,oluwaseunlawal53@yahoo.com,Fixed Deposit,RIVERS,Obio-Akpor,Debit,POS,₦166123,0,2024-09-10,Failed,School Fees Payment
+TXN-0423,Chidi Abubakar,09071113729,chidiabubakar@gmail.com,Current,DELTA,Warri,Transfer,Mobile App,₦2942,115709.64,2024-11-22,Reversed,Transfer to Babatunde Bello
+TXN-0424,Chidi Ibrahim,07038914079,chidi_ibrahim@gmail.com,Fixed Deposit,oyo,Iseyin,Transfer,Bank Branch,₦8255,338371.76,2024-08-08,Failed,NIP Transfer to Ngozi Nwachukwu
+TXN-0425,Ifeanyi Chukwu,07013083601,ifeanyi.chukwu@outlook.com,Current,abuja,Gwarinpa,Debit,POS,₦1658,683615.2,2024-02-12,Reversed,Rent Payment
+TXN-0426,Ngozi Adeyemi,09038327109,ngozi.adeyemi73@gmail.com,Current,lagos,Yaba,Transfer,Bank Branch,₦15948,2993.67,2024-05-04,Reversed,Transfer to Aisha Aliyu - Opay
+TXN-0427,Tunde Adekunle,07034477485,tunde_adekunle@yahoo.com,Savings,ABUJA,Garki,Credit,Bank Branch,₦18789,630710.98,2024-04-28,Successful,Business Revenue
+TXN-0428,Nkechi Nwofor,07034341486,nkechinwofor@yahoo.com,Savings,Ogun,Ilaro,Transfer,USSD,₦4827,251976.18,2024-12-09,Failed,Transfer to Bayo Nwosu
+TXN-0429,Adaeze Usman,08169156931,adaezeusman69@outlook.com,Savings,OYO,Iseyin,Debit,Bank Branch,₦18027,0,2024-12-09,Successful,Airtime Purchase - MTN
+TXN-0430,Biodun Aliyu,08051648096,biodun_aliyu@gmail.com,Fixed Deposit,ogun,Ota,Debit,Bank Branch,₦2487,377408.0,2024-07-20,Reversed,School Fees Payment
+TXN-0431,Ngozi Mohammed,09094875540,ngozi_mohammed@hotmail.com,Current,DELTA,Agbor,Transfer,POS,₦18118,230492.99,2024-04-25,Reversed,Transfer to Obinna Mohammed
+TXN-0432,Uche Tanko,09051744848,uche.tanko16@gmail.com,Savings,DELTA,Sapele,Debit,Bank Branch,₦769,106197.84,2024-12-25,Pending,Bill Payment - EKEDC
+TXN-0433,Uche Bello,09031972571,uchebello66@outlook.com,Fixed Deposit,Abuja,Asokoro,Debit,POS,₦49100,523687.11,2024-03-20,Reversed,Fuel Payment
+TXN-0434,Ibrahim Adeleke,07068560393,ibrahim_adeleke@yahoo.com,Fixed Deposit,DELTA,Warri,Debit,USSD,₦639,455272.03,2024-09-25,Pending,Airtime Purchase - MTN
+TXN-0435,Chukwuemeka Nwosu,08139589701,chukwuemeka.nwosu73@outlook.com,Fixed Deposit,enugu,Agbani,Transfer,USSD,₦23594,460589.2,2024-12-08,Failed,NIP Transfer to Ngozi Lawal
+TXN-0436,Yakubu Musa,09025538380,yakubu_musa79@hotmail.com,Savings,OGUN,Abeokuta,Credit,ATM,₦65628,662068.53,2024-07-13,Reversed,Salary Credit - First Bank
+TXN-0437,Chinyere Adekunle,09074842395,chinyere_adekunle79@gmail.com,Current,KANO,Fagge,Debit,POS,₦780,769158.97,2024-10-01,Pending,School Fees Payment
+TXN-0438,Zainab Musa,08053345350,zainab.musa29@yahoo.com,Savings,Anambra,Ekwulobia,Credit,ATM,₦95080,789362.92,2024-01-15,Pending,Dividend Payment
+TXN-0439,Musa Okonkwo,08054906497,musa_okonkwo71@yahoo.com,Fixed Deposit,delta,Sapele,Debit,Mobile App,₦1935,474483.08,2024-10-09,Successful,ATM Cash Withdrawal
+TXN-0440,Ngozi Nwosu,09060890687,ngozinwosu@yahoo.com,Savings,kaduna,Kaduna North,Debit,POS,₦2408,742489.5,2024-09-11,Reversed,Bill Payment - EKEDC
+TXN-0441,Aisha Nwofor,09020433379,aisha.nwofor@hotmail.com,Savings,oyo,Iseyin,Credit,Mobile App,₦4566,574558.17,2024-07-22,Failed,Salary Credit - Federal Civil Service
+TXN-0442,Ngozi Nwosu,09054459096,ngozi_nwosu@outlook.com,Fixed Deposit,RIVERS,Obio-Akpor,Debit,Mobile App,₦70909,417457.71,2024-12-04,Failed,School Fees Payment
+TXN-0443,Sade Adeleke,08056399372,sadeadeleke@yahoo.com,Current,ANAMBRA,Nnewi,Credit,Bank Branch,₦4125,280112.94,2024-09-30,Successful,Salary Credit - Dangote Group
+TXN-0444,Funke Chukwu,08149531703,funke.chukwu@outlook.com,Savings,Ogun,Ota,Debit,Bank Branch,₦3431,708082.38,2024-11-19,Successful,ATM Cash Withdrawal
+TXN-0445,Amina Eze,08101721594,amina_eze7@hotmail.com,Savings,enugu,Awgu,Transfer,Bank Branch,₦39405,83474.24,2024-05-03,Pending,Transfer to Blessing Musa - Opay
+TXN-0446,Yusuf Musa,08073930732,yusuf_musa@gmail.com,Fixed Deposit,KADUNA,Igabi,Credit,USSD,₦23511,450951.62,2024-01-25,Reversed,Dividend Payment
+TXN-0447,Tosin Yusuf,08157814691,tosin_yusuf15@outlook.com,Savings,ANAMBRA,Ekwulobia,Debit,USSD,₦12853,691560.83,2024-11-21,Reversed,Supermarket Purchase
+TXN-0448,Funke Adeyemi,09073189083,funkeadeyemi@hotmail.com,Current,Ogun,Sagamu,Debit,USSD,₦2359,279724.4,2024-11-17,Successful,ATM Cash Withdrawal
+TXN-0449,Chidi Obi,08106436457,chidi_obi@yahoo.com,Savings,kano,Gwale,Credit,ATM,₦11574,121365.59,2024-03-02,Successful,Dividend Payment
+TXN-0450,Chioma Salami,08030975348,chioma_salami@gmail.com,Savings,ogun,Abeokuta,Debit,Bank Branch,₦189334,347599.56,2024-11-18,Successful,Airtime Purchase - MTN
+TXN-0451,Chinyere Chukwu,08142354615,chinyerechukwu@gmail.com,Current,Delta,Sapele,Transfer,Mobile App,₦14863,392336.44,2024-07-21,Pending,NIP Transfer to Chukwuemeka Salami
+TXN-0452,Kemi Tanko,09052047783,kemi_tanko@yahoo.com,Current,OYO,Saki,Debit,Mobile App,₦41349,595750.52,2024-11-06,Successful,Bill Payment - EKEDC
+TXN-0453,Segun Adeleke,08070227945,segun.adeleke75@gmail.com,Savings,oyo,Ogbomosho,Credit,ATM,₦10947,204145.18,2024-12-21,Successful,Freelance Income
+TXN-0454,Ifeanyi Eze,08166496734,ifeanyieze32@outlook.com,Current,OGUN,Ijebu-Ode,Transfer,Mobile App,₦17344,365313.79,2024-04-12,Successful,Interbank Transfer - Access Bank
+TXN-0455,Yakubu Yusuf,09066411878,yakubu.yusuf@yahoo.com,Current,Kaduna,Igabi,Debit,POS,₦79398,451518.86,2024-11-16,Reversed,Rent Payment
+TXN-0456,Aisha Musa,09025473829,aisha_musa@outlook.com,Current,anambra,Ogidi,Transfer,Mobile App,₦1544,58032.61,2024-07-15,Failed,Transfer to Sade Nwofor - Opay
+TXN-0457,Rukayat Adebayo,08038468780,rukayatadebayo@yahoo.com,Fixed Deposit,DELTA,Warri,Transfer,USSD,₦3865,398987.43,2024-02-09,Successful,NIP Transfer to Oluwaseun Yusuf
+TXN-0458,Ibrahim Mohammed,07039246052,ibrahimmohammed@gmail.com,Fixed Deposit,Kaduna,Igabi,Credit,POS,₦4424,748194.32,2024-09-17,Successful,Freelance Income
+TXN-0459,Emeka Aliyu,08164428815,emekaaliyu73@gmail.com,Savings,OYO,Iseyin,Transfer,POS,₦139326,199057.1,2024-05-24,Successful,Transfer to Ibrahim Nwosu - Opay
+TXN-0460,Ngozi Garba,08146169734,ngozi.garba51@hotmail.com,Current,rivers,Ikwerre,Debit,Bank Branch,₦70354,182036.31,2024-08-06,Pending,Airtime Purchase - MTN
+TXN-0461,Halima Okafor,08129231727,halimaokafor@yahoo.com,Fixed Deposit,Delta,Asaba,Credit,POS,₦507,162541.11,2024-10-19,Successful,Refund - Jumia
+TXN-0462,Ifeanyi Adeleke,08022466277,ifeanyiadeleke96@gmail.com,Savings,LAGOS,Ikeja,Transfer,Bank Branch,₦1597,311928.32,2024-06-17,Pending,Interbank Transfer - Access Bank
+TXN-0463,Chioma Ogundipe,09063023066,chioma.ogundipe@outlook.com,Current,enugu,Enugu,Transfer,Mobile App,₦11771,785587.53,2024-08-01,Reversed,Interbank Transfer - Access Bank
+TXN-0464,Tunde Mohammed,08166177893,tundemohammed@outlook.com,Current,Delta,Ughelli,Debit,ATM,₦18946,4200.39,2024-03-10,Successful,ATM Cash Withdrawal
+TXN-0465,Tunde Ibrahim,08166268134,tunde_ibrahim85@outlook.com,Savings,ABUJA,Wuse,Debit,USSD,₦596,486539.87,2024-01-26,Pending,Rent Payment
+TXN-0466,Ifeanyi Musa,08066777903,ifeanyi_musa68@gmail.com,Savings,OGUN,Sagamu,Transfer,Bank Branch,₦19344,116435.49,2024-03-18,Successful,NIP Transfer to Yakubu Nwachukwu
+TXN-0467,Fatima Lawal,08063534417,fatima_lawal73@hotmail.com,Current,KANO,Dala,Transfer,POS,₦62762,364125.13,2024-01-31,Reversed,Transfer to Uche Musa - Opay
+TXN-0468,Kemi Eze,08146572026,kemieze92@yahoo.com,Savings,ENUGU,Nsukka,Transfer,USSD,₦89327,655198.39,2024-08-07,Successful,NIP Transfer to Musa Ogundipe
+TXN-0469,Funke Adeleke,08137504893,funkeadeleke31@hotmail.com,Fixed Deposit,OGUN,Ijebu-Ode,Debit,POS,₦359946,475308.23,2024-04-30,Failed,Rent Payment
+TXN-0470,Oluwaseun Ibrahim,09056324905,oluwaseun_ibrahim37@hotmail.com,Fixed Deposit,OYO,Saki,Transfer,Bank Branch,₦1246,637089.37,2024-04-27,Successful,NIP Transfer to Sade Nwosu
+TXN-0471,Damilola Adeleke,08063782839,damilolaadeleke@outlook.com,Current,oyo,Saki,Credit,ATM,₦158374,738221.24,2024-08-11,Successful,Freelance Income
+TXN-0472,Chioma Chukwu,08036773000,chioma_chukwu43@hotmail.com,Fixed Deposit,ANAMBRA,Onitsha,Credit,Bank Branch,₦1442,762966.72,2024-09-24,Pending,Salary Credit - Lagos State Government
+TXN-0473,Musa Tanko,08107958496,musa_tanko@yahoo.com,Current,anambra,Nnewi,Debit,Mobile App,₦9622,737966.04,2024-06-12,Reversed,ATM Cash Withdrawal
+TXN-0474,Nneka Obi,09099442407,nnekaobi@yahoo.com,Fixed Deposit,OYO,Ibadan,Credit,ATM,₦686,631083.24,2024-05-05,Successful,Freelance Income
+TXN-0475,Ngozi Adeleke,08149670105,ngoziadeleke@hotmail.com,Current,ABUJA,Garki,Transfer,Bank Branch,₦1306,670193.28,2024-08-09,Reversed,Transfer to Segun Musa - Opay
+TXN-0476,Chioma Obiora,08076307320,chioma_obiora@outlook.com,Savings,ANAMBRA,Awka,Credit,ATM,₦61418,502405.86,2024-04-04,Failed,Business Revenue
+TXN-0477,Adaeze Ogundipe,09036642514,adaezeogundipe@gmail.com,Current,oyo,Saki,Transfer,Mobile App,₦29504,696595.27,2024-09-02,Reversed,Transfer to Tosin Mohammed
+TXN-0478,Babatunde Eze,08152830268,babatunde.eze89@hotmail.com,Current,Ogun,Ilaro,Credit,POS,₦11446,60679.19,2024-01-04,Successful,Transfer from Ibrahim Nwachukwu
+TXN-0479,Tunde Bello,07033535213,tundebello62@yahoo.com,Fixed Deposit,LAGOS,Ikeja,Debit,ATM,₦4084,544311.2,2024-05-18,Reversed,POS Payment - Chicken Republic
+TXN-0480,Kayode Okonkwo,08034627341,kayode_okonkwo@outlook.com,Current,ABUJA,Asokoro,Debit,Bank Branch,₦1277,384503.58,2024-06-22,Reversed,POS Payment - Shoprite
+TXN-0481,Tunde Mohammed,07035133098,tunde.mohammed4@hotmail.com,Savings,lagos,Lekki,Transfer,ATM,₦2939,326573.21,2024-02-17,Failed,Transfer to Damilola Suleiman
+TXN-0482,Nneka Tanko,08053637879,nneka_tanko@yahoo.com,Current,Oyo,Saki,Credit,USSD,₦4026,482874.03,2024-01-15,Failed,Dividend Payment
+TXN-0483,Uche Obiora,08140456578,uche_obiora24@outlook.com,Current,OGUN,Ota,Credit,Mobile App,₦138883,747787.77,2024-05-06,Reversed,Loan Disbursement - GTBank
+TXN-0484,Kemi Obiora,08107414231,kemi.obiora34@yahoo.com,Fixed Deposit,Abuja,Maitama,Credit,Bank Branch,₦5026,576028.92,2024-12-21,Reversed,Salary Credit - Lagos State Government
+TXN-0485,Damilola Eze,08140830334,damilola_eze@gmail.com,Savings,Oyo,Ogbomosho,Transfer,ATM,₦6736,282013.01,2024-10-11,Successful,NIP Transfer to Babatunde Bello
+TXN-0486,Rukayat Yusuf,08128512391,rukayat.yusuf78@yahoo.com,Current,OGUN,Ilaro,Debit,POS,₦2863,383847.89,2024-08-26,Successful,Airtime Purchase - MTN
+TXN-0487,Obinna Tanko,09098542898,obinnatanko@outlook.com,Fixed Deposit,Anambra,Ogidi,Credit,USSD,₦62209,248755.29,2024-01-26,Successful,Loan Disbursement - GTBank
+TXN-0488,Rukayat Nwosu,08083914511,rukayatnwosu@yahoo.com,Fixed Deposit,OYO,Ogbomosho,Transfer,ATM,₦14031,194463.1,2024-07-18,Reversed,Transfer to Ibrahim Chukwu - Opay
+TXN-0489,Funke Obi,08032114868,funke_obi97@yahoo.com,Savings,enugu,Agbani,Transfer,ATM,₦687,306663.16,2024-03-05,Successful,NIP Transfer to Yusuf Obiora
+TXN-0490,Bayo Adekunle,09094369626,bayoadekunle@hotmail.com,Fixed Deposit,kaduna,Igabi,Credit,ATM,₦739,279273.1,2024-12-29,Failed,Dividend Payment
+TXN-0491,Uche Abubakar,07038594737,ucheabubakar97@yahoo.com,Savings,RIVERS,Port Harcourt,Transfer,POS,₦16975,194073.28,2024-12-12,Successful,Transfer to Damilola Ogundipe
+TXN-0492,Chinyere Aliyu,08079996717,chinyerealiyu@gmail.com,Savings,OYO,Ibadan,Transfer,POS,₦13487,732035.79,2024-10-24,Failed,Interbank Transfer - Access Bank
+TXN-0493,Kayode Adeyemi,09096948779,kayodeadeyemi50@outlook.com,Savings,KANO,Fagge,Transfer,Mobile App,₦2631,544813.86,2024-05-31,Reversed,Interbank Transfer - Access Bank
+TXN-0494,Ngozi Okafor,08085720802,ngozi_okafor24@hotmail.com,Savings,Delta,Warri,Transfer,ATM,₦5980,243429.78,2024-06-16,Pending,Transfer to Chinyere Okafor - Opay
+TXN-0495,Ifeanyi Nwofor,08050033287,ifeanyi.nwofor72@yahoo.com,Savings,lagos,Victoria Island,Transfer,POS,₦6924,288763.59,2024-10-29,Failed,Transfer to Zainab Bello - Opay
+TXN-0496,Halima Nwosu,08076470917,halima.nwosu7@gmail.com,Savings,rivers,Obio-Akpor,Credit,USSD,₦11434,29638.93,2024-05-25,Reversed,Freelance Income
+TXN-0493,Kayode Adeyemi,09096948779,kayodeadeyemi50@outlook.com,Savings,KANO,Fagge,Transfer,Mobile App,₦2631,544813.86,2024-05-31,Reversed,Interbank Transfer - Access Bank
+TXN-0494,Ngozi Okafor,08085720802,ngozi_okafor24@hotmail.com,Savings,Delta,Warri,Transfer,ATM,₦5980,243429.78,2024-06-16,Pending,Transfer to Chinyere Okafor - Opay
+TXN-0495,Ifeanyi Nwofor,08050033287,ifeanyi.nwofor72@yahoo.com,Savings,lagos,Victoria Island,Transfer,POS,₦6924,288763.59,2024-10-29,Failed,Transfer to Zainab Bello - Opay
+TXN-0496,Halima Nwosu,08076470917,halima.nwosu7@gmail.com,Savings,rivers,Obio-Akpor,Credit,USSD,₦11434,29638.93,2024-05-25,Reversed,Freelance Income

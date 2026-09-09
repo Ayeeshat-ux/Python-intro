@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Amara",
+        "score": 85,
+        "subject": "Mathematics"
+    },
+    {
+        "name": "Kofi",
+        "score": 72,
+        "subject": "Physics"
+    },
+    {
+        "name": "Ama",
+        "score": 65,
+        "subject": "Chemistry"
+    },
+    {
+        "name": "Yaw",
+        "score": 48,
+        "subject": "Biology"
+    },
+    {
+        "name": "Zainab",
+        "score": 91,
+        "subject": "Mathematics"
+    },
+    {
+        "name": "David",
+        "score": 35,
+        "subject": "Physics"
+    }
+]

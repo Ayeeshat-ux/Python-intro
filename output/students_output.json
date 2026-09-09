@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Amara",
+        "score": 85,
+        "subject": "Mathematics",
+        "grade": "A",
+        "status": "Pass"
+    },
+    {
+        "name": "Kofi",
+        "score": 72,
+        "subject": "Physics",
+        "grade": "A",
+        "status": "Pass"
+    },
+    {
+        "name": "Ama",
+        "score": 65,
+        "subject": "Chemistry",
+        "grade": "B",
+        "status": "Pass"
+    },
+    {
+        "name": "Yaw",
+        "score": 48,
+        "subject": "Biology",
+        "grade": "D",
+        "status": "Fail"
+    },
+    {
+        "name": "Zainab",
+        "score": 91,
+        "subject": "Mathematics",
+        "grade": "A",
+        "status": "Pass"
+    },
+    {
+        "name": "David",
+        "score": 35,
+        "subject": "Physics",
+        "grade": "F",
+        "status": "Fail"
+    }
+]
