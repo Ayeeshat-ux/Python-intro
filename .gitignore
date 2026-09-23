@@ -1,0 +1,14 @@
+# Ignore Virtual Environments
+myvenv/
+venv/
+ENV/
+
+# Ignore Python Cache Files
+__pycache__/
+*.pyc
+
+# Ignore Sensitive Environment Variables (API Keys)
+.env
+
+# Ignore Streamlit settings
+.streamlit/
